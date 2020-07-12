@@ -830,7 +830,7 @@
     "story": "Reminiscence ＊ End of the Marionette's Strings: Tomoya Mashiro ★★★ Event | Dream School (1)",
     "writer": "an unknown author",
     "to": "Hajime Shino",
-    "text": "The guy we bumped into earlier was really pretty, huh~♪ But the person who played the princess was more \"captivating,\" though."
+    "text": "The person we bumped into earlier was really pretty, huh~♪ But the guy who played the princess was more \"captivating,\" though."
   },
   {
     "character": "Tomoya Mashiro",
@@ -844,7 +844,7 @@
     "story": "Reminiscence ＊ End of the Marionette's Strings: Tomoya Mashiro ★★★ Event | Dream School (1)",
     "writer": "an unknown author",
     "to": "Hajime Shino",
-    "text": "\"His skin looked really smooth\"... You were watching him more closely huh, Hajime? All I got from it was how pretty his hair looked~♪ I bet it would be really silky if we got to touch it. ♪"
+    "text": "\"His skin looked so smooth\"... You were watching him more closely huh, Hajime? All I got from it was how pretty his hair looked~♪ I bet it would be really silky if we got to touch it. ♪"
   },
   {
     "character": "Tomoya Mashiro",
@@ -858,7 +858,7 @@
     "story": "Rosicrucian Story: Trip Show (2)",
     "writer": "Akira",
     "to": "Hinata Aoi",
-    "text": "I wonder if that's true... That Masked Pervert, I think it's absolutely just that he's enjoying himself."
+    "text": "I wonder if that's true... That Masked Pervert, I think he's just absolutely enjoying himself."
   },
   {
     "character": "Tomoya Mashiro",
@@ -976,6 +976,7 @@
     "character": "Tomoya Mashiro",
     "story": "The Spectacular Cinderella Show: Epilogue (2)",
     "writer": "Yoshino Yuuki",
+    "to": "himself",
     "text": "(Even if it's just an act, you really have the power to win over people's hearts. Forget the Fairy Godmother and the Evil Stepmother, right now, I can't see you as anything but a loving mother who cherishes her child.)"
   },
   {
@@ -1018,7 +1019,7 @@
     "story": "The Spectacular Cinderella Show: Epilogue (3)",
     "writer": "Yoshino Yuuki",
     "to": "Wataru Hibiki",
-    "text": "From here on, as long as you're the Drama Club president, I'm sure there'll be plenty to worry about, but I was glad the audience all said they enjoyed the show. I'll keep doing my best as a member of the drama club. Just don't make me do a crazy show like this again, President, okay?"
+    "text": "From here on, as long as you're the Drama Club president, I'm sure there'll be plenty to worry about. But I'm glad the audience enjoyed the play. I'll keep doing my best as a member of the drama club. Just don't make me do a crazy show like this again, President, okay?"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1032,21 +1033,14 @@
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
     "writer": "Akira",
     "to": "Hajime Shino",
-    "text": "Ah! Sorry. I just, ran into her... That's no good, isn't it~ I was so moved, I've been dumbfounded."
+    "text": "Ah! Sorry, I just ran into her... That's no good, isn't it~ I was so moved, I've been dumbfounded. But, see, it was amazing, you know, wasn't it! Especially... That person playing the lead role!"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
     "writer": "Akira",
     "to": "Hajime Shino",
-    "text": "Ah! Sorry. I just, ran into her... That's no good, isn't it~ I was so moved, I've been dumbfounded. But, see, it was amazing, you know, wasn't it! Especially... That person playing the lead role!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "writer": "Akira",
-    "to": "Hajime Shino",
-    "text": "You wouldn't think it was the same person, like, he's extraordinary! That was a man, right...? He was in the role of a princess, but... Really, I was in a trance, you know! He's my goddess, you know~♪"
+    "text": "You wouldn't think it was the same person, like, he's extraordinary! That was a guy, right...? He was in the role of a princess, but... Really, I was in a trance, you know! He's my goddess, you know~♪"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1054,5 +1048,75 @@
     "writer": "Akira",
     "to": "Hajime Shino",
     "text": "If we can pass the exam for this school, we can stick out our chests and watch these plays like normal, too, can't we? I'm going to do my best, you know~ My motivation has sprung forth! ♪ Hajime, you take the exam with me too, okay!?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "\"Why\", you ask? Please think before you ask another! There are infinite possibilities, are there not? To act without thought is the same as to die! Think, become confused, and revel in the Amazing...☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "D-Don't come over here! Don't come near meeeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~!?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "Uwaaah! You fucking tricked me, huh?! And played around with my feelings! Don't you dare come any closer!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Ahh, your frightened face is adorable as well! That was the best reward, Tomoya-kun...☆"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "However, I do not like that statement of yours. I did not \"fool you\", but rather I \"cast a spell on you\"! It's a magical showtime... Ahahahaha! ☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "I-I don't understand what you're saying! Don't chase me, you damn madman!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Acting without thinking again, aren't you? Listen to what people say properly! If one should refuse to understand the minds of others, he shall be doomed to find himself in the vast void of infallibility, a gulf of despair! What a tragedy that is!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Accept and understand one another! Tomoya-kun, let us appreciate each other, love each other...☆ Let us empathize with each other, melt into each other, and become one! Within that, there is love, truth, and amazing!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "You want to change, do you not? You want to free yourself from your mediocre existence, do you not? If so, begin by aiming for me! Your admiration for me is the why you knocked on the Drama Club's door, no? Aah, I'm delighted that you would wish to become me! ♪"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Very well! From your guts to all your nerves, I shall drive this superhuman theory of love and surprise into you! Become me, Tomoya-kun! That's right, you are Wataru Hibiki...☆"
   }
 ]
