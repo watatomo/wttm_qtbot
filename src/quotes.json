@@ -1033,14 +1033,14 @@
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
     "writer": "Akira",
     "to": "Hajime Shino",
-    "text": "Ah! Sorry, I just ran into her... That's no good, isn't it~ I was so moved, I've been dumbfounded. But, see, it was amazing, you know, wasn't it! Especially... That person playing the lead role!"
+    "text": "Ah! Sorry, I just ran into her... That's no good, isn't it~ I was so moved, I've been dumbfounded. But, see, it was amazing, you know, wasn't it! Especially...that person playing the lead role!"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
     "writer": "Akira",
     "to": "Hajime Shino",
-    "text": "You wouldn't think it was the same person, like, he's extraordinary! That was a guy, right...? He was in the role of a princess, but... Really, I was in a trance, you know! He's my goddess, you know~♪"
+    "text": "You wouldn't think it was the same person, like, he's extraordinary! That was a guy, right...? He was in the role of a princess, but... Really, I was in a trance, you know! He's my goddess~♪"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1054,14 +1054,14 @@
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "\"Why\", you ask? Please think before you ask another! There are infinite possibilities, are there not? To act without thought is the same as to die! Think, become confused, and revel in the Amazing...☆"
+    "text": "\"Why\", you ask? Please think before you ask another! There are infinite possibilities, are there not? To act without thought is the same as to die! Think, become confused, and revel in the amazing...☆"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
     "writer": "Akira",
     "to": "Wataru Hibiki",
-    "text": "D-Don't come over here! Don't come near meeeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~!?"
+    "text": "D-Don't come over here! Don't come near meeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~!?"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1110,7 +1110,7 @@
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "You want to change, do you not? You want to free yourself from your mediocre existence, do you not? If so, begin by aiming for me! Your admiration for me is the why you knocked on the Drama Club's door, no? Aah, I'm delighted that you would wish to become me! ♪"
+    "text": "You want to change, do you not? You want to free yourself from your mediocre existence, do you not? If so, begin by aiming for me! Your admiration for me is the reason why you knocked on the Drama Club's door, no? Aah, I'm delighted that you would wish to become me! ♪"
   },
   {
     "character": "Wataru Hibiki",
@@ -1118,5 +1118,40 @@
     "writer": "Akira",
     "to": "Tomoya Mashiro",
     "text": "Very well! From your guts to all your nerves, I shall drive this superhuman theory of love and surprise into you! Become me, Tomoya-kun! That's right, you are Wataru Hibiki...☆"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
+    "writer": "Akira",
+    "to": "Nazuna Nito",
+    "text": "However, that is what I desire of you, you know. It is...unusual for me to leave something up to another. I shall entrust to you a tool for that purpose. Here, Tomoya-kun, please do not flee...♪"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
+    "writer": "Akira",
+    "to": "Nazuna Nito",
+    "text": "Heheheh, I just dislocated my joints, though? Yes, come here~? I shall give to you, little rabbit, this Tomoya-kun! It seems that Tomoya-kun is somewhat troubled, and so... Please, do save him. ♪"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
+    "writer": "Akira",
+    "to": "Nazuna Nito",
+    "text": "Right now, Tomoya-kun is a poor child with no apparent talents worth mentioning, but... As his name goes, he is a blank slate. I expect that infinite possibilities may be hiding within him."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
+    "writer": "Akira",
+    "to": "Nazuna Nito",
+    "text": "Please train up this child. Making him a being equal to me... I won't go so far as to demand that, though, you know. At this rate, he will be crushed, never having understood anything. It would be piteous, would it not?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Reminiscence ＊ Marionette: White Rabbit (1)",
+    "writer": "Akira",
+    "to": "Hajime Shino",
+    "text": "Nito-senpai is our last hope...! I'm beyond uneasy because that Masked Pervert's the one who introduced her to me, but we're in a situation where all we can do is grasp at whatever we have, so, see!?"
   }
 ]
