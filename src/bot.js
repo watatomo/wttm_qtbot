@@ -28,7 +28,7 @@ function postQuote(quote) {
 }
 
 function getRepliesAskingForSource(callback) {
-  bot.get('search/tweets', { q: 'to:@wttm_qtbot source', count: 100 }, callback)
+  bot.get('search/tweets', { q: 'to:@wttm_qtbot "source" OR "story" OR "where" OR "who" OR "said"', count: 100 }, callback)
 }
 
 function getRepliesByBot(tweet, callback) {
@@ -91,7 +91,6 @@ function getQuoteMetadata(quote, callback) {
   if (!matched_quotes || matched_quotes.length > 1) {
     return null;
   }
-
 
 function getParentTweet(tweet, callback) {
   bot.get('statuses/show/:id', { id: tweet.in_reply_to_status_id_str }, callback)
