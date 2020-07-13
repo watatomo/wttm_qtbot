@@ -1,6 +1,6 @@
 # @wttm_qtbot
 
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwttm_qtbot https://img.shields.io/github/license/watatomo/wttm_qtbot  https://img.shields.io/badge/quote%20count-164-blue https://img.shields.io/badge/status-not%20running-red
+![https://twitter.com/wttm_qtbot](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwttm_qtbot) ![https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE](https://img.shields.io/github/license/watatomo/wttm_qtbot)  ![](https://img.shields.io/badge/quote%20count-164-blue) ![](https://img.shields.io/badge/status-not%20running-red)
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
@@ -12,11 +12,11 @@ Tweets every hour, but can be changed. Planning to switch over to one tweet ever
 
 When a user replies to a tweet asking for a quote's source, the bot will reply with the character who said the quote, who it's spoken to, the chapter it's from, and the writer of that story. It will respond this to tweets containing "source", "story", "who", *or* "said".
 
-**Planned Features**
-- Random quote when @'ed "random" (that's ≤265 characters)
+### To-do
+- Random quote when mentioned "random" (≤265 characters?)
 - Random quotes based on who said it (Tomoya or Wataru)
-  - If @'ed "Tomoya quote", reply with a quote from Tomoya (also ≤265 characters)
-- In-game screenshots if @'ed "image"
+  - If mentioned "Tomoya quote", reply with a quote from Tomoya (also ≤265 characters?)
+- In-game screenshots if mentioned "image"
 
 ## Prerequisites
 
