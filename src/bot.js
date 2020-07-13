@@ -28,7 +28,7 @@ function postQuote(quote) {
 }
 
 function getRepliesAskingForSource(callback) {
-  bot.get('search/tweets', { q: 'to:@wttm_qtbot "source" OR "story" OR "where" OR "who" OR "said"', count: 100 }, callback)
+  bot.get('search/tweets', { q: 'to:@wttm_qtbot "source" OR "story" OR "who" OR "said"', count: 100 }, callback)
 }
 
 function getRepliesByBot(tweet, callback) {
