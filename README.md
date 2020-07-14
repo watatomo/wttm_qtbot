@@ -28,7 +28,7 @@ For the sake of consistency, the bot follows a style guide.
 
 - Quotes shall be in American English
 - Honorifics that have English equivalents are to be changed
-  - `部長` would be `President` (or 'Captain', depending on the club), `先生` will be changed according to the character's occupation, etc.
+  - `部長` would be `President` (or `Captain`, depending on the club), `先生` will be changed according to the character's occupation, etc.
   - `先輩`, `さん`, `くん`, and the likes are kept
 - Titles that have English equivalents are also to be changed
 - Names are in western order
