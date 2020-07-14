@@ -14,13 +14,29 @@ Currently trying to deal with Twitter's troublesome OAuth system. This README is
 
 Tweets every hour, but can be changed. Planning to switch over to one tweet every 30 minutes when there are enough quotes added.
 
-When a user replies to a tweet asking for a quote's source, the bot will reply with the character who said the quote, who it's spoken to, the chapter it's from, and the writer of that story. It will respond this to tweets containing "source", "story", "who", *or* "said".
+Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, the recipient, the chapter it's from, and the writer of that story.
 
 #### To-do
 - Random quote when mentioned "random"
 - Random quotes based on who said it (Tomoya or Wataru)
   - If mentioned "Tomoya quote", reply with a quote from Tomoya
 - In-game screenshots if mentioned "image"
+
+## About Quotes
+
+For the sake of consistency, the bot follows a style guide.
+
+- Quotes shall be in American English
+- Honorifics that have English equivalents are to be changed
+  - `部長` would be `President` (or 'Captain', depending on the club), `先生` will be changed according to the character's occupation, etc.
+  - `先輩`, `さん`, `くん`, and the likes are kept
+- Titles that have English equivalents are also to be changed
+- Names are in western order
+- Official romanization is used if there is any (and if it's not incorrect)
+- If needed, lines are edited to be grammatically correct or sound better out of context
+- No "smart punctuation"
+
+Please note that the bot posts quotes *randomly* and can be from any part of the school year, meaning some quotes might be a bit strange. However, do remember that they reconcile later on. After all, this bot is meant to showcase the various developments Tomoya and Wataru's relationship had—all the ups and downs that occurred. The bond they share is vital for both of their character arcs, and it will continue to grow in the !! era.
 
 ## Prerequisites
 
@@ -32,10 +48,7 @@ When a user replies to a tweet asking for a quote's source, the bot will reply w
 
 This bot is basically a fork of [QuoteableSatoshi](https://github.com/dergigi/QuotableSatoshi).
 
-Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com/), with edits to be grammatically correct or sound better out of context. Some lines are translated by myself. Other sources are listed below:
-- Phantom Thieves VS Detectives: [Rina/minashirosoushi](https://minashirosoushi.tumblr.com/tagged/enstars-tl)
-
-A list of stories that are included in the bot can be found [here](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c).
+Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c).
 
 ---
 
