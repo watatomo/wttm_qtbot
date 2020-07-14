@@ -42,6 +42,8 @@ Please note that the bot posts quotes *randomly* and can be from any part of the
 
 - Node.js
 - A developer Twitter account
+- Ruby (For OAuth)
+  - Use [Twurl](https://github.com/twitter/twurl)
 - A little bit of sanity
 
 ## Attributions

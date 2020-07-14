@@ -2,16 +2,15 @@
   "name": "wttm_qtbot",
   "version": "1.0.0",
   "description": "A Tomoya/Wataru Twitter quote bot.",
-  "main": "start.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node start.js",
+    "start": "node index.js",
     "reply": "node reply.js"
   },
   "author": "Ren (@riamuyumemi, github: watatomo)",
   "license": "BSD-3-Clause-Clear",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "mocha": "^5.2.0",
     "twit": "^2.2.11",
     "twitter": "^1.7.1"
   }

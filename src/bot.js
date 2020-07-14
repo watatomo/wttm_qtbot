@@ -1,18 +1,36 @@
 const Twit = require('twit')
 const config = require('./config')
 const quotes = require('./quotes.json')
-
 const bot = new Twit(config)
-
-setInterval(postRandomQuote, 1000*60*60)
 
 function postRandomQuote() {
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
 
+  var tweetableQuote = shortenQuote(sanitizedQuote)
+
   postQuote(tweetableQuote)
 }
 
+setInterval(postRandomQuote, 1000*60*60)
+
 /**
+ * Shortens quote if too long
+ * @param {string} quote
+ */
+function shortenQuote(quote) {
+  if (quote.length < config.character_limit) {
+    return quote
+  }
+
+  if (quote.length > config.character_limit) {
+    return quote.substring(0, config.character_limit - 3) + "..."
+  }
+
+  return shortenedQuote
+}
+
+/**
+ * Posts quote to twitter
  * @param {string} quote
 */
 function postQuote(quote) {
@@ -28,7 +46,7 @@ function postQuote(quote) {
 }
 
 function getRepliesAskingForSource(callback) {
-  bot.get('search/tweets', { q: 'to:@wttm_qtbot "source" OR "story" OR "who" OR "said"', count: 100 }, callback)
+  bot.get('search/tweets', { q: 'to:@wttm_qtbot "source" OR "story"', count: 100 }, callback)
 }
 
 function getRepliesByBot(tweet, callback) {
@@ -59,7 +77,7 @@ function replyWithSource(tweet) {
     var metadata = getQuoteMetadata(data.text.substring(0, 70))
     var reply = '@'
     reply += tweet.user.screen_name
-    reply += ' From '
+    reply += ' This line is from '
     reply += metadata.character
     reply += ' to '
     reply += metadata.to
@@ -96,6 +114,7 @@ function getParentTweet(tweet, callback) {
   bot.get('statuses/show/:id', { id: tweet.in_reply_to_status_id_str }, callback)
 }
 
+module.exports.shortenQuote = shortenQuote;
 module.exports.quotes = quotes;
 module.exports.getRepliesAskingForSource = getRepliesAskingForSource;
 module.exports.replyWithSource = replyWithSource;
