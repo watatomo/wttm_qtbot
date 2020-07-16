@@ -3,24 +3,25 @@
 <a href="https://twitter.com/ensemble_stars/status/681716281414815744"><img align="right" src="https://user-images.githubusercontent.com/23179278/87398281-85c97880-c56a-11ea-9510-044666dafcf2.png" alt="真白友也と日々樹渉" title="そのとき触れたものが愛おしくて、あの泣き顔を笑顔にしてやりたくなったんだ"></a>
 
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
-[![Quote Count](https://img.shields.io/badge/quote%20count-164-blue.svg)](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c)
+[![Quote Count](https://img.shields.io/badge/quote%20count-165-blue.svg)](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c)
 [![Status](https://img.shields.io/badge/status-not%20running-red.svg)](https://twitter.com/wttm_qtbot)
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
-Currently trying to deal with Twitter's troublesome OAuth system. This README is also in the works.
+The bot and its README is still in the works.
 
 ## Features
 
 Tweets every hour, but can be changed. Planning to switch over to one tweet every 30 minutes when there are enough quotes added.
 
-Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, the recipient, the chapter it's from, and the writer of that story.
+Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and writer of that story.
 
 #### To-do
 - Random quote when mentioned "random"
 - Random quotes based on who said it (Tomoya or Wataru)
   - If mentioned "Tomoya quote", reply with a quote from Tomoya
 - In-game screenshots if mentioned "image"
+- Docs page
 
 ## About Quotes
 
