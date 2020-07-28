@@ -38,15 +38,15 @@
     "character": "Tomoya Mashiro",
     "story": "Idol Story: Tomoya Mashiro | Part 1",
     "writer": "Akira",
-    "to": "Anzu",
-    "text": "Yep, it's similar to Puck from A Midsummer Night's Dream. I play a trickster who skips across the stage and causes trouble. The role reminded me of two guys I look up to, so I was really motivated!"
+    "to": "himself",
+    "text": "\"Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪\""
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Idol Story: Tomoya Mashiro | Part 1",
     "writer": "Akira",
-    "to": "himself",
-    "text": "\"Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪\""
+    "to": "Anzu",
+    "text": "Yep, it's similar to Puck from A Midsummer Night's Dream. I play a trickster who skips across the stage and causes trouble. The role reminded me of two guys I look up to, so I was really motivated!"
   },
   {
     "character": "Wataru Hibiki",
@@ -74,7 +74,7 @@
     "story": "Sub-story: Hokuto Hidaka | Improv Theater",
     "writer": "Akira",
     "to": "an empty audience",
-    "text": "Tomoya-kun, you have a complex over being \"normal,\" do you not! That is but an unneeded worry, as you have infinite attributes within you!"
+    "text": "Tomoya-kun, you have a complex over being \"normal,\" do you not? That is but an unneeded worry, as you have infinite attributes within you!"
   },
   {
     "character": "Wataru Hibiki",
@@ -137,7 +137,7 @@
     "story": "Sub-story: Wataru Hibiki | Resounding Love",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "Fufufu! Since you seem to be having trouble with it, Hokuto-kun, I'll take over the role of the \"illicit lover!\" And then I'll swoop down and attack Tomoya-kun until he's thoroughly disgraced...☆"
+    "text": "Fufufu! Since you seem to be having trouble with it, Hokuto-kun, I'll take over the role of the \"illicit lover\"! And then I'll swoop down and attack Tomoya-kun until he's thoroughly disgraced...☆"
   },
   {
     "character": "Wataru Hibiki",
@@ -172,7 +172,7 @@
     "story": "Sub-story: Wataru Hibiki | Reserved Joker",
     "writer": "Akira",
     "to": "Hokuto Hidaka",
-    "text": "Plus, if that guy died and came back to life, maybe we can raise him up into a normal person without any eccentricities? Let's do our best together to raise a \"nice, clean Wataru Hibiki.\" ☆"
+    "text": "Plus, if that guy died and came back to life, maybe we can raise him up into a normal person without any eccentricities? Let's do our best together to raise a \"nice, clean\" Wataru Hibiki. ☆"
   },
   {
     "character": "Tomoya Mashiro",
@@ -214,7 +214,7 @@
     "story": "Transparency and Masks: G in a maze (8)",
     "writer": "Akira",
     "to": "himself",
-    "text": "(I can't say this properly, but I wanted to anyways! It feels like I found a goal in life, a dream to chase after!)"
+    "text": "(I don't know how to word this properly, but I'll say it anyways! I feel like I finally found a goal in life—a dream to chase after!)"
   },
   {
     "character": "Tomoya Mashiro",
@@ -235,7 +235,7 @@
     "story": "Transparency and Masks: G in a maze (8)",
     "writer": "Akira",
     "to": "himself",
-    "text": "(I'd be happy and you'll be able to smile from the bottom of your heart. Wouldn't that be the best? It's a \"happily ever after,\" right?)"
+    "text": "(I'd be happy and you'll be able to smile from the bottom of your heart. Wouldn't that be the best? It's a \"happily ever after,\" right? That would be really precious to me!)"
   },
   {
     "character": "Tomoya Mashiro",
@@ -243,6 +243,13 @@
     "writer": "Akira",
     "to": "himself",
     "text": "(By being able to catch up to you, who is anything but average, I can blast away my inferiority complex, your loneliness, and everything else!)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Transparency and Masks: G in a maze (8)",
+    "writer": "Akira",
+    "to": "himself",
+    "text": "(\"There's nothing better than being normal\"? No way! I want to become someone! That's why I became an idol! Acting all sorts of roles on stage was so fun that I forgot I was normal for a second! It's such a great feeling—like I'm dreaming! I came to love acting too!)"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1160,5 +1167,40 @@
     "writer": "Akira",
     "to": "Hajime Shino",
     "text": "Nito-senpai is our last hope...! I'm beyond uneasy because that Masked Pervert's the one who introduced her to me, but we're in a situation where all we can do is grasp at whatever we have, so, see!?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Humanity (6)",
+    "writer": "Akira",
+    "to": "an audience",
+    "text": "\"Now, hold out your hands: this is an invitation to Neverland! An island of beauty that's straight out of your wildest dreams—a mysterious land full of love and surprise!\""
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Humanity (6)",
+    "writer": "Akira",
+    "to": "an audience",
+    "text": "\"We'll serve as your guides! Let us laugh together, hold hands, and play to our hearts' content! Welcome to this Amazing World...♪\""
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Humanity (6)",
+    "writer": "Akira",
+    "to": "Nazuna Nito",
+    "text": "If I keep at it and build myself up, I'll be on the same level as him one day... Though it won't be easy! I might be able to at least grasp at the strands of his hair, right? That's why, I'll do my best! I'll dedicate each day to working towards that goal...!"
+  },
+  {
+    "character": "Shu Itsuki",
+    "story": "Human Comedy: Humanity (10)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Hmm? Aah, I didn't intend to ridicule your senior, whom you hold in such high regard. Wataru is one of the few people in this world that I can call my friend and equal... Think of what I just said as a frivolous, lighthearted jest."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Humanity (10)",
+    "writer": "Akira",
+    "to": "Shu Itsuki",
+    "text": "No, I really couldn't care less about that guy right now..."
   }
 ]
