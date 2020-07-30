@@ -11,8 +11,6 @@ function postRandomQuote() {
   postQuote(tweetableQuote)
 }
 
-setInterval(postRandomQuote, 1000*60*60)
-
 /**
  * Shortens quote if too long
  * @param {string} quote
@@ -113,6 +111,8 @@ function getQuoteMetadata(quote, callback) {
 function getParentTweet(tweet, callback) {
   bot.get('statuses/show/:id', { id: tweet.in_reply_to_status_id_str }, callback)
 }
+
+setInterval(postRandomQuote, 1000*60*60)
 
 module.exports.shortenQuote = shortenQuote;
 module.exports.quotes = quotes;

@@ -16,8 +16,7 @@ Tweets every hour, but can be changed. Planning to switch over to one tweet ever
 
 Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and writer of that story.
 
-### To-do
-
+#### To-do
 - Random quote when mentioned "random"
 - Random quotes based on who said it (Tomoya or Wataru)
   - If mentioned "Tomoya quote", reply with a quote from Tomoya
@@ -36,7 +35,7 @@ For the sake of consistency, the bot follows a style guide. More details on my s
 - Official romanization is used if there is any
 - No "smart" quotes or ellipses
 
-Quotes are posted randomly and can be from any part of the school year, meaning some might sound a bit strange. However, both characters reconcile later on in *Phantom Thieves VS Detectives*. [@wttm_qtbot](https://twitter.com/wttm_qtbot) is made to showcase the various developments Tomoya and Wataru's relationship had throughout the timeline. That includes all the up and downs that occurred, as no relationship is "perfect." The bond they share is vital for both of their character arcs, and it will continue to grow in the *!!* era.
+Please note that the bot posts quotes *randomly* and can be from any part of the school year, meaning some quotes might be a bit strange. However, do remember that they reconcile later on. After all, this bot is meant to showcase the various developments Tomoya and Wataru's relationship had—all the ups and downs that occurred. The bond they share is vital for both of their character arcs, and it will continue to grow in the !! era.
 
 ## Prerequisites
 
