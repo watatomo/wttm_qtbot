@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "reply": "node reply.js"
+    "reply": "node reply.js",
+    "test": "node test.js"
   },
   "author": "Ren (watatomo)",
   "license": "MIT",

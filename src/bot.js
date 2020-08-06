@@ -3,25 +3,32 @@ const config = require('./config')
 const quotes = require('./quotes.json')
 const bot = new twit(config)
 
+console.log("Bot has started!")
+
 function postRandomQuote() {
+  // Pick a random quote
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
 
-  var tweetableQuote = shortenQuote(sanitizedQuote)
+  // Reduce length of quote to fit twitter
+  var tweetableQuote = shortenQuote(quote)
 
+  // Post quote to twitter
   postQuote(tweetableQuote)
 }
 
 /**
- * Shortens quote if too long
+ * Reduce quote length
  * @param {string} quote
  */
 function shortenQuote(quote) {
-  if (quote.length < config.character_limit) {
+  var shortenedQuote = quote
+  if (quote.length < 280) {
     return quote
   }
 
-  if (quote.length > config.character_limit) {
-    return quote.substring(0, config.character_limit - 3) + "..."
+  // Shorten quote
+  if (quote.length > 280 || quote === "") {
+    return quote.substring(0, 280 - 3) + "..."
   }
 
   return shortenedQuote
@@ -112,8 +119,6 @@ function getQuoteMetadata(quote, callback) {
 function getParentTweet(tweet, callback) {
   bot.get('statuses/show/:id', { id: tweet.in_reply_to_status_id_str }, callback)
 }
-
-setInterval(postRandomQuote, 1000*60*60)
 
 module.exports.shortenQuote = shortenQuote;
 module.exports.quotes = quotes;

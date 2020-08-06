@@ -2,4 +2,4 @@
 
 var bot = require('./src/bot');
 
-bot.postRandomQuote;
+setInterval(bot.postRandomQuote, 1000*60*60)
