@@ -1,7 +1,7 @@
-const Twit = require('twit')
+const twit = require('twit')
 const config = require('./config')
 const quotes = require('./quotes.json')
-const bot = new Twit(config)
+const bot = new twit(config)
 
 function postRandomQuote() {
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
