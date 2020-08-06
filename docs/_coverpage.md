@@ -10,8 +10,6 @@
 # *What I saw at that moment was so dear,<br>I wanted to turn your tears into a smile.*
 > *That's enough reason for me to continue<br>following this thread.*
 
-- **QUOTE COUNT:** 175
-
 [GitHub](https://github.com/watatomo/wttm_qtbot/)
 [About](#About)
 [Disclaimer](disclaimer.md)

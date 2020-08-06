@@ -12,9 +12,9 @@ For more information, visit the bot's [README](https://github.com/watatomo/wttm_
 
 # Features
 
-Tweets every hour, but can be changed. Planning to switch over to one tweet every 30 minutes when there are enough quotes added.
+Tweets every 45 minutes for now. Can be changed later on.
 
-Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and writer of that story.
+Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and its writer. (Not 100% sure if it works...)
 
 ## To-do
 
@@ -24,9 +24,9 @@ Reply to a quote tweet with "source" or "story", and the bot will answer back wi
 - Reply with in-game screenshots if mentioned "image"
   - Get those screenshots
 - Documentation page
-- Make the bot actually work
+- Make dedicated story page
 
-## Quick Start
+# Quick Start
 
 Apply for a [Developer account](https://developer.twitter.com/) using the bot's Twitter. Then, create an app and generate consumer keys.
 
@@ -45,7 +45,6 @@ ACCESS_TOKEN=
 ACCESS_TOKEN_SECRET=
 POST_TO_TWITTER=true
 ```
-
 
 # Attributions
 

@@ -12,9 +12,9 @@ The bot and its README is still in the works. Suggestions are always appreciated
 
 ## Features
 
-Tweets every hour, but can be changed. Planning to switch over to one tweet every 30 minutes when there are enough quotes added.
+Tweets every 45 minutes for now. Can be changed later on.
 
-Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and writer of that story.
+Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and its writer. (Not 100% sure if it works...)
 
 ### To-do
 
@@ -24,6 +24,7 @@ Reply to a quote tweet with "source" or "story", and the bot will answer back wi
 - Reply with in-game screenshots if mentioned "image"
   - Get those screenshots
 - Documentation page
+- Make dedicated story page
 
 ## About Quotes
 
