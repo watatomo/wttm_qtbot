@@ -2,11 +2,11 @@
 
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
 [![Quote Count](https://img.shields.io/badge/quote%20count-175-blue.svg)](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c)
-[![Status](https://img.shields.io/badge/status-not%20running-red.svg)](https://twitter.com/wttm_qtbot)
+[![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship.
 
-This bot is still under construction. More quotes will be added over time.
+This bot is still under construction. More quotes will be added over time. Suggestions are always appreciated.
 
 For more information, visit the bot's [README](https://github.com/watatomo/wttm_qtbot/blob/master/README.md). A proper documentation is in the works.
 
