@@ -1,7 +1,7 @@
-const twit = require('twit')
+const Twit = require('twit')
 const config = require('./config')
 const quotes = require('./quotes.json')
-const bot = new twit(config)
+const bot = new Twit(config)
 
 console.log("Bot has started!")
 
@@ -10,7 +10,7 @@ function postRandomQuote() {
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
 
   // Reduce length of quote to fit twitter
-  var tweetableQuote = shortenQuote(quote)
+  var tweetableQuote = shortenQuote(quote.text)
 
   // Post quote to twitter
   postQuote(tweetableQuote)
@@ -39,14 +39,20 @@ function shortenQuote(quote) {
  * @param {string} quote
 */
 function postQuote(quote) {
-  if (config.post_to_twitter) {
-    console.log("Posting quote to timeline...")
-    bot.post('statuses/update', { status: quote }, function(err, data, response) {
-      console.log(data)
-    })
-  } else {
-    console.log(quote)
-    console.log("Posting quote failed. ENV variable POST_TO_TWITTER has to be set to true.")
+  if (!config.post_to_twitter) {
+      console.log(quote);
+      console.log("Posting quote failed. ENV variable POST_TO_TWITTER has to be set to true.");
+      return;
+  }
+
+  console.log("Posting quote to timeline...")
+
+  try {
+      bot.post('statuses/update', { status: quote }, function(err, data, response) {
+        console.log(data)
+      });
+  } catch (error) {
+      console.log(error);
   }
 }
 
@@ -79,17 +85,16 @@ function replyWithSource(tweet) {
   getParentTweet(tweet, function(err, data, response) {
     console.log("--")
     console.log(tweet.text)
-    var metadata = getQuoteMetadata(data.text.substring(0, 70))
     var reply = '@'
     reply += tweet.user.screen_name
     reply += ' This line is from '
-    reply += metadata.character
+    reply += quotes.character
     reply += ' to '
-    reply += metadata.to
+    reply += quotes.to
     reply += ' in '
-    reply += metadata.story
+    reply += quotes.story
     reply += ' written by '
-    reply += metadata.writer
+    reply += quotes.writer
     reply += '.'
 
     console.log(reply)
@@ -108,14 +113,6 @@ function replyWithSource(tweet) {
   })
 }
 
-function getQuoteMetadata(quote, callback) {
-  var PATTERN = new RegExp(quote);
-  var matched_quotes = quotes.filter(function (q) { return PATTERN.test(q.text); });
-  if (!matched_quotes || matched_quotes.length > 1) {
-    return null;
-  }
-}
-
 function getParentTweet(tweet, callback) {
   bot.get('statuses/show/:id', { id: tweet.in_reply_to_status_id_str }, callback)
 }
@@ -127,5 +124,4 @@ module.exports.replyWithSource = replyWithSource;
 module.exports.replyAllWithSource = replyAllWithSource;
 module.exports.getParentTweet = getParentTweet;
 module.exports.getRepliesByBot = getRepliesByBot;
-module.exports.getQuoteMetadata = getQuoteMetadata;
 module.exports.postRandomQuote = postRandomQuote;
