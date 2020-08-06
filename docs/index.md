@@ -14,7 +14,7 @@ For more information, visit the bot's [README](https://github.com/watatomo/wttm_
 
 Tweets every 45 minutes for now. Can be changed later on.
 
-Reply to a quote tweet with "source" or "story", and the bot will answer back with the speaker, recipient, chapter, and its writer. (Not 100% sure if it works...)
+~~Reply to a quote tweet with "source" and the bot will answer back with the speaker, recipient, chapter, and its writer.~~ Fixing this.
 
 ## To-do
 
