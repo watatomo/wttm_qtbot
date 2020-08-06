@@ -26,6 +26,26 @@ Reply to a quote tweet with "source" or "story", and the bot will answer back wi
 - Documentation page
 - Make the bot actually work
 
+## Quick Start
+
+Apply for a [Developer account](https://developer.twitter.com/) using the bot's Twitter. Then, create an app and generate consumer keys.
+
+```sh
+$ cd /DIRECTORY_WHERE_THE_BOT_IS_STORED
+$ git clone https://github.com/watatomo/wttm_qtbot.git
+$ npm install
+```
+
+Edit `package.json` to have the bot's information. Then, make a file named `.env` and fill it out.
+
+```txt
+CONSUMER_KEY=
+CONSUMER_SECRET=
+ACCESS_TOKEN=
+ACCESS_TOKEN_SECRET=
+POST_TO_TWITTER=true
+```
+
 
 # Attributions
 

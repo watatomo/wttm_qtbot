@@ -9,7 +9,7 @@ function postRandomQuote() {
   // Pick a random quote
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
 
-  // Reduce length of quote to fit twitter
+  // Reduce quote length
   var tweetableQuote = shortenQuote(quote.text)
 
   // Post quote to twitter
