@@ -2,4 +2,4 @@
 
 var bot = require('./src/bot');
 
-module.exports = bot.replyAllWithSource()
+bot.replyAllWithSource();
