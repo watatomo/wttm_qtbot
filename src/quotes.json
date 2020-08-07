@@ -18,7 +18,7 @@
     "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
     "writer": "Akira",
     "to": "Wataru Hibiki",
-    "text": "Always brimming with self-confidence, aren't you? Whatever, you have talent. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
+    "text": "Always brimming with self-confidence, aren't you? Whatever, you're talented as hell. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
   },
   {
     "character": "Tomoya Mashiro",
@@ -452,14 +452,49 @@
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "Ahaha. Tomoya-kun's reactions are as amusing as normal. It has a rather shocked value to it, haha! How are you? You won't faint, will you?"
+    "text": "Are there any naughty children here~? What a pity, there's only an average child. ☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "That scared me?! Woah, the Masked Pervert appeared!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "Tomoya-kun really can't mimic me well... I wanted to be more graceful, even when spouting drivel, and yet can't seem to conceal my rather loud and obvious temperament?"
+    "text": "Ahaha. Tomoya-kun's reactions are amusing as usual. It has a rather shocked value to it, haha! How are you? You won't faint, correct?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "What, wouldn't you typically shout \"Are you surprised? You're surprised, aren't you! How amazing! ☆\" with such glee?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Tomoya-kun really can't mimic me well... I'm more refined than that! My grace shines through even when I'm spouting nonsense, right?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "Go look at a mirror."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "Uwah, now that I have a closer look, you're wearing some weird costume. You're not even participating in the Mystery Stage, so why are you dressed up as a phantom thief?"
   },
   {
     "character": "Tomoya Mashiro",
@@ -469,18 +504,39 @@
     "text": "So it's like that, how tiring... Would it be better if I came and helped out?"
   },
   {
-    "character": "Tomoya Mashiro",
+    "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
-    "to": "Wataru Hibiki",
-    "text": "You saying such wise words feels out of place..."
+    "to": "Tomoya Mashiro",
+    "text": "No, no. I already feel like lecturing you for staying back to practice. It wouldn't be my problem if you push yourself too hard that you faint again."
   },
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "How painful. Even though I always give suggestions in hopes that Tomoya-kun will happily grow, and took you hand-in-hand and guided you along!"
+    "text": "Please leave this kind of work to the backstage staff. You should go home immediately and get a good night's sleep to eliminate your fatigue."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Living life in the fast lane will won't do any good. I know you can't curb your enthusiasm, but being idle is part of our job as idols."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "...You saying such wise words feels out of place."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "How painful. I always gave you advice in hopes of happy growth and even taught you with such care!"
   },
   {
     "character": "Wataru Hibiki",
@@ -494,49 +550,84 @@
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
     "to": "Wataru Hibiki",
-    "text": "Even though your way of doing things can only be described as insane, you're always helping me grow. But if you think about it, I can't really keep up with your footsteps..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "writer": "Akira",
-    "to": "Tomoya Mashiro",
-    "text": "No, don't mind me. Do as you wish, Tomoya-kun. However, if you mess everything up, I'll use a roundhouse kick to stop you."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "writer": "Akira",
-    "to": "Tomoya Mashiro",
-    "text": "What's truly a pity is that you are not Wataru Hibiki. I have forgotten about that and regret it greatly."
+    "text": "Even though your way of doing things can only be described as insane, you're always helping me improve. But if you think about it, I can't really keep up with your footsteps..."
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
     "to": "Wataru Hibiki",
-    "text": "Please use a kinder method to solve it. That roundhouse kick will kill someone. I just got better after being sick~ Look out for me a bit more."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "writer": "Akira",
-    "to": "Wataru Hibiki",
-    "text": "Why did you still come to watch the performance even though you said that you wouldn't get any closer to me? You were sitting at Row D, Seat 23, right?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "writer": "Akira",
-    "to": "Wataru Hibiki",
-    "text": "In today's audience, the one most unlike you was the guy sitting at Row D, Seat 23. He was at our S3 too... Speaking of which, that guy was always there. You've always been nearby watching, accidentally worrying all the time."
+    "text": "Please keep it in mind a bit longer. Seriously, you're always saying such careless things..."
   },
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (1)",
     "writer": "Akira",
     "to": "Tomoya Mashiro",
-    "text": "Thinking that people such as Tomoya-kun couldn't possibly see through my disguise, I slacked off, and in the end it was a failure."
+    "text": "Sure. Don't mind me, do as you wish. However, if you mess anything up, I'll use a roundhouse kick to stop you."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "What's truly a pity is that you are not Wataru Hibiki. I have forgotten about that and regret it greatly. However, I'll forget about it in the blink of an eye tomorrow. ☆"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "What a spoiled child you are."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "I might have ran into you by chance... But I won't get any closer, since I wouldn't want to hurt you again. I'll leave right after I've finished cleaning up, so please pretend I'm not here. I'm quite inconsiderate and can only protect you by staying away."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Oops, I've been found out. My disguise should have been perfect."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "Can you be a little more gentle? That roundhouse kick will kill someone. I'm still recovering, so please be careful with me~"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "Is that so? Then why did you watch today's show despite saying you'd \"stay away\" from me? You were sitting at Row D, Seat 23, right?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "The one most unlike you in today's audience was the guy sitting at Row D, Seat 23. He was at our S3 too... Speaking of which, that guy was always around. You've been watching over me the whole time, getting surprisingly worried, huh?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Tomoya Mashiro",
+    "text": "Oh, oh... How embarrassing. This is Wataru Hibiki's greatest mistake. Thinking that someone as clueless Tomoya-kun would never see through my disguise, I slacked off, only to fail in the end."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
+    "writer": "Akira",
+    "to": "Wataru Hibiki",
+    "text": "Are you trying to piss me off?"
   },
   {
     "character": "Tomoya Mashiro",

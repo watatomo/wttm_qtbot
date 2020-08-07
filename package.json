@@ -1,7 +1,7 @@
 {
   "name": "wttm_qtbot",
   "version": "1.0.0",
-  "description": "A Tomoya/Wataru Twitter quote bot.",
+  "description": "A Tomoya/Wataru Twitter quote bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
