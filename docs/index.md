@@ -18,6 +18,7 @@ Tweets every 45 minutes for now. Can be changed later on.
 
 ## To-do
 
+- Code for repeated quotes
 - Random quote when mentioned "random"
 - Random quotes based on who said it (Tomoya or Wataru)
   - If mentioned "Tomoya quote", reply with a quote from Tomoya
