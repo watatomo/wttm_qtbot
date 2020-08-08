@@ -14,7 +14,7 @@ The bot and its README is still in the works. Suggestions are always appreciated
 
 Tweets every 45 minutes for now. Can be changed later on.
 
-~~Reply to a quote tweet with "source" and the bot will answer back with the speaker, recipient, chapter, and its writer.~~ Fixing this.
+~~Reply to a quote tweet with "source" and the bot will answer back who said it with the story its from.~~ Fixing this.
 
 ### To-do
 

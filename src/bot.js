@@ -87,14 +87,10 @@ function replyWithSource(tweet) {
     console.log(tweet.text)
     var reply = '@'
     reply += tweet.user.screen_name
-    reply += ' This line is from '
+    reply += ' This quote is from '
     reply += quotes.character
-    reply += ' to '
-    reply += quotes.to
     reply += ' in '
     reply += quotes.story
-    reply += ' written by '
-    reply += quotes.writer
     reply += '.'
 
     console.log(reply)
