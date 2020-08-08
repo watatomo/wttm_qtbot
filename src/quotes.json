@@ -532,7 +532,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "However, you have a penchant for expressing yourself as \"normal\" in self-depreciation. When you turned in your application to join the Drama Club, with sparkling eyes you had said you wanted to change the \"normal\" you."
+    "text": "However, you have a penchant for expressing yourself as \"normal\" in self-depreciation. When you turned in your application to join the Drama Club, you said you wanted to change your \"normal\" self with sparkling eyes."
   },
   {
     "character": "Wataru Hibiki",
@@ -846,7 +846,7 @@
   },
   {
     "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",,
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
     "text": "However, I do not like that statement of yours. I did not \"fool you,\" but rather I \"cast a spell on you\"! It's a magical showtime... Ahahahaha! ☆"
   },
   {
@@ -943,5 +943,50 @@
     "character": "Tomoya Mashiro",
     "story": "Dead End Land: Dead End (7)",
     "text": "(Uhm, I think there's a big misunderstanding here?! What was that weird signal I got back? Oh, fuck it. This signal can only mean one thing! The rest is up to you!)"
+  },
+  {
+    "character": "Hokuto Hidaka",
+    "story": "Passionate Carmen: Chapter 3",
+    "text": "...Were you influenced by the Masked Pervert, Tomoya? Every once in a while, you start acting obscure. Even assuming that, it's especially more so today. It's strange, you know?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Passionate Carmen: Chapter 3",
+    "text": "The despair I felt when I found out its true identity was the Masked Pervert's voice is immeasurable!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Kung Fu: Master Part-Timer (2)",
+    "text": "You'd be better off not coming. Listening to that Masked Pervert would just rot your brain..."
+  },
+  {
+    "character": "Hinata Aoi",
+    "story": "Kung Fu: Master Part-Timer (2)",
+    "text": "Then why don't you get Hibiki-senpai to teach you? I'm sure he'd be over the moon if you asked him for help. I mean, he seems to really have a thing for you, Tomo-kun. ♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Kung Fu: Master Part-Timer (2)",
+    "text": "Really? Hmm, I guess he is kind of a big deal...?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Kung Fu: Master Part-Timer (3)",
+    "text": "I'm gonna mess up my speech againnnn! Right when I finally stopped accidentally saying all the weird stuff that Masked Pervert's corrupted my vocabulary withhh~!"
+  },
+  {
+    "character": "Hokuto Hidaka",
+    "story": "Kung Fu: Master Part-Timer (4)",
+    "text": "Tomoya. You know, from time to time, you act just like that Masked Pervert. I'm worried about you... What if his bad influence is starting to rub off on you?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Kung Fu: Master Part-Timer (4)",
+    "text": "What? No I'm not! I won't let anyone get away with saying something like that, not even you, Hokuto-senpai! Take it back!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Kung Fu: Master Part-Timer (4)",
+    "text": "Everything is that horrible Masked Pervert's fault! He's the root of all evil! We should go assassinate him. We could nick him with a poison dart or something...☆"
   }
 ]
