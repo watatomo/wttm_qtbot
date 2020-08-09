@@ -53,8 +53,12 @@ function postQuote(quote) {
       });
   } catch (error) {
       console.log(error);
+
+        postRandomQuote(); // Repeat until no error
   }
 }
+
+// Try to fix stuff below
 
 function getRepliesAskingForSource(callback) {
   bot.get('search/tweets', { q: 'to:@wttm_qtbot source', count: 100 }, callback)
