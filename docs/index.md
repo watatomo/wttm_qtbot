@@ -1,53 +1,45 @@
-# About
+# Genius and Ordinary {docsify-ignore}
+
+<img align="right" style="max-width:50%;max-height:auto" src="https://user-images.githubusercontent.com/23179278/87398281-85c97880-c56a-11ea-9510-044666dafcf2.png">
 
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
-[![Quote Count](https://img.shields.io/badge/quote%20count-200-blue.svg)](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c)
+[![Quote Count](https://img.shields.io/badge/quote%20count-205-blue.svg)](stories.md)
 [![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
 
-[@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship.
+[@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
-This bot is still under construction. More quotes will be added over time. Suggestions are always appreciated.
+Tweets every *45 minutes*, can be changed later on. The bot runs *locally from its owner's PC* as he doesn't have any money to buy his own server (yet). There may be some mishaps every once in a while, but he'll try his best to fix them as soon as possible.
 
-For more information, visit the bot's [README](https://github.com/watatomo/wttm_qtbot/blob/master/README.md). A proper documentation is in the works.
+This bot is still in the works. Suggestions are always appreciated.
 
-# Features
+Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.com/riamuyumemi) or [open an issue](https://github.com/watatomo/wttm_qtbot/issues).
 
-Tweets every 45 minutes for now. Can be changed later on.
+### To-do
 
-~~Reply to a quote tweet with "source" and the bot will answer back who said it with the story its from.~~ Fixing this.
-
-## To-do
-
+- Reply with quote source if asked for it
 - Random quote when mentioned "random"
-- Random quotes based on who said it (Tomoya or Wataru)
-  - If mentioned "Tomoya quote", reply with a quote from Tomoya
 - Reply with in-game screenshots if mentioned "image"
-  - Get those screenshots
-- Documentation page
-- Make dedicated story page
 
-# Quick Start
+---
 
-Apply for a [Developer account](https://developer.twitter.com/) using the bot's Twitter. Create an app and generate consumer keys.
+## Regarding Quotes
 
-```sh
-$ cd /DIRECTORY_WHERE_THE_BOT_IS_STORED
-$ git clone https://github.com/watatomo/wttm_qtbot.git
-$ npm install
-```
+For the sake of consistency, the bot follows a style guide. More details on my standards can be found on my [translation archive](https://watatomo.github.io/tl/about/#Personal-Style-Guide).
 
-Edit `package.json` to have the bot's information. Fill out `example.env` and rename it to `.env`
+- American English, western name order
+- Honorifics that have English equivalents are to be changed
+- Appellations, location names, and the likes are localized or changed to its English equivalent if possible
+- Official romanization is used if there is any
+- No "smart" quotes or ellipses
 
-```env
-CONSUMER_KEY=
-CONSUMER_SECRET=
-ACCESS_TOKEN=
-ACCESS_TOKEN_SECRET=
-POST_TO_TWITTER=true
-```
+### Disclaimer
 
-# Attributions
+Quotes are posted randomly and can be from any part of the school year, meaning some might sound a bit strange. However, both characters reconcile later on in *Phantom Thieves VS Detectives*. [@wttm_qtbot](https://twitter.com/wttm_qtbot) is made to showcase the various developments Tomoya and Wataru's relationship had throughout the timeline. That includes all the up and downs that occurred, as no relationship is "perfect." The bond they share is vital for both of their character arcs, and it will continue to grow in the *!!* era.
+
+---
+
+## Attributions
 
 This bot is basically a fork of [QuoteableSatoshi](https://github.com/dergigi/QuotableSatoshi).
 
-Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://gist.github.com/watatomo/7503775b00c3df1a0580e102829e8a3c).
+Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](stories.md).
