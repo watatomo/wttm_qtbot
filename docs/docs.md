@@ -46,10 +46,18 @@ The time interval can be changed in `index.js`. The current default is 45 min.
 setInterval(bot.postRandomQuote, 1000*60*45)
 ```
 
-`1000` represents one second. Multiply it by `60` and you one minute. Edit the number at the end to any number you'd like (e.g., `45` for 45 min.)
+`1000` represents one second. Multiply it by `60` and you get one minute. Edit the number at the end to any number you like (e.g., `45` for 45 min.)
 
 ---
 
 ## Running the Bot
 
 Run the bot using `yarn start`. To post a test tweet, use `yarn test`.
+
+---
+
+## Notes
+
+The source feature is broken right now, so don't run `reply.js`. The code for it under `// Try to fix stuff below`.
+
+[Pull requests](https://github.com/watatomo/wttm_qtbot/pulls) are welcome! Feel free to contribute any improvements you make to the bot there.
