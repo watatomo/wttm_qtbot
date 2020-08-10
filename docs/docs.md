@@ -52,12 +52,11 @@ setInterval(bot.postRandomQuote, 1000*60*45)
 
 ## Running the Bot
 
+!> The source feature is broken right now, so don't run `reply.js`. The code for it is under `// Try to fix stuff below`.
+
 Run the bot using `yarn start`. To post a test tweet, use `yarn test`.
 
 ---
 
-## Notes
-
-The source feature is broken right now, so don't run `reply.js`. The code for it is under `// Try to fix stuff below`.
 
 [Pull requests](https://github.com/watatomo/wttm_qtbot/pulls) are welcome! Feel free to contribute any improvements you make to the bot there.

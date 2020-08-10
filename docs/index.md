@@ -16,9 +16,9 @@ Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.c
 
 ### To-do
 
-- Reply with quote source if asked for it
-- Random quote when mentioned "random"
-- Reply with in-game screenshots if mentioned "image"
+- [ ] Reply with quote source if asked for it
+- [ ] Random quote when mentioned "random"
+- [ ] Reply with in-game screenshots if mentioned "image"
 
 ---
 

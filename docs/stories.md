@@ -1,6 +1,6 @@
 Listed in "chronological" order.
 
-Stories marked with `☆` mean that the bot contains quotes from it that are translated by [its owner](https://watatomo.github.io/tl/). Not all of the lines I translated are in the wiki.
+Stories marked with a `☆` mean that the bot contains quotes from it that are translated by [its owner](https://watatomo.github.io/tl/). Not all of the lines he translated are on the wiki.
 
 Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messages/compose?recipient_id=1281322573049954305) to submit one. Be sure to include the quote's source (story + chapter) as well.
 
