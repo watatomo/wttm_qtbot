@@ -37,6 +37,9 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Dream Travel](https://ensemble-stars.fandom.com/wiki/Dream_Travel)
 - [Human Comedy](https://ensemble-stars.fandom.com/wiki/Human_Comedy) `☆`
 
+### Spring
+- [Lost Legend](https://ensemble-stars.fandom.com/wiki/Lost_Legend)
+
 ---
 
 ## !! Era
