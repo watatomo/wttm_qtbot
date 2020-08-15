@@ -52,9 +52,7 @@ function postQuote(quote) {
         console.log(data)
       });
   } catch (error) {
-      console.log(error);
-
-        postRandomQuote(); // Repeat until no error
+      postRandomQuote(); // Repeat until no error
   }
 }
 
