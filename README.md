@@ -9,7 +9,7 @@
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
 The bot and its README is still in the works. Suggestions are always appreciated.
-
+ 
 ## Features
 
 Tweets every *45 minutes*, can be changed later on. The bot runs *locally from its owner's PC*.
