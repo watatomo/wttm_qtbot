@@ -6,7 +6,7 @@ Apply for a [Developer account](https://developer.twitter.com/) using the bot's 
 
 ```bash
 cd /DIRECTORY_WHERE_THE_BOT_IS_STORED
-git clone https://github.com/watatomo/wttm_qtbot.git
+git clone --single-branch -b master https://github.com/watatomo/wttm_qtbot.git
 npm install
 ```
 
