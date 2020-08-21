@@ -1,31 +1,6 @@
 [
   {
     "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Tragedy (10)",
-    "text": "Ah! Wait, I didn't buy this plush for myself, okay?! My little sister's just a big fan of President Hibiki...!"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (4)",
-    "text": "(...So you can smile like that, Wataru-chin. That kind of smile is the most charming—like a boy your age should smile. Nice job, Tomo-chin. That's the treasure you were able to find because you're you.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
-    "text": "Always brimming with self-confidence, aren't you? Whatever, you're talented as hell. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
-    "text": "President, are you crying...?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
-    "text": "Oh? This is a funny story—is there a reason to be crying? You say such strange things, Tomoya-kun!"
-  },
-  {
-    "character": "Tomoya Mashiro",
     "story": "Idol Story: Tomoya Mashiro (1)",
     "text": "\"Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪\""
   },
@@ -451,6 +426,21 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
+    "text": "Always brimming with self-confidence, aren't you? Whatever, you're talented as hell. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
+    "text": "President, are you crying...?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
+    "text": "Oh? This is a funny story—is there a reason to be crying? You say such strange things, Tomoya-kun!"
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (3)",
     "text": "...President, let me help clean up after all. I've been watching for a while, but it doesn't look like it's gonna be over any time soon."
   },
@@ -585,6 +575,11 @@
     "text": "Yessir. I wanna participate in Drama Club activities after all, too. Right, I want to have a chat about that later."
   },
   {
+    "character": "Nazuna Nito",
+    "story": "Phantom Thieves VS. Detectives: Epilogue (4)",
+    "text": "(...So you can smile like that, Wataru-chin. That kind of smile is the most charming—like a boy your age should smile. Nice job, Tomo-chin. That's the treasure you were able to find because you're you.)"
+  },
+  {
     "character": "Wataru Hibiki",
     "story": "Performance: Romeo and Juliet (Chapter 5)",
     "text": "\"My lips, two blushing pilgrims, shall cast their shame aside to smooth that rough touch. O'dear saint, allow me to purge my sin with this pilgrimage.\""
@@ -697,7 +692,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Rosicrucian Story: Epilogue (1)",
-    "text": "It would be troubling if you sued me. What are you getting agitated about? You were so happy to see me, weren't you~? Tomoya-kun ♪"
+    "text": "It would be troubling if you sued me. What are you getting agitated about? You were so happy to see me, weren't you~? Tomoya-kun. ♪"
   },
   {
     "character": "Wataru Hibiki",
@@ -901,6 +896,16 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Tragedy (10)",
+    "text": "Ah! Wait, I didn't buy this plush for myself, okay?! My little sister's just a big fan of President Hibiki...!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Humanity (6)",
+    "text": "\"Until we all get tired of playing together, let's link our hands and fly around in the sky!\""
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "Human Comedy: Humanity (6)",
     "text": "\"Now, hold out your hands: this is an invitation to Neverland! An island of beauty that's straight out of your wildest dreams—a mysterious land full of love and surprise!\""
   },
@@ -913,6 +918,11 @@
     "character": "Tomoya Mashiro",
     "story": "Human Comedy: Humanity (6)",
     "text": "If I keep at it and build myself up, I'll be on the same level as him one day... Though it won't be easy! I might be able to at least grasp at the strands of his hair, right? That's why, I'll do my best! I'll dedicate each day to working towards that goal...!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Human Comedy: Humanity (6)",
+    "text": "And before long, I might be able to reach the sun like this! Even if the heat burns me instantly... That's still a great feat no one else has done! I'll be remembered in history! And that's definitely not \"ordinary\"!"
   },
   {
     "character": "Shu Itsuki",
@@ -1002,17 +1012,17 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Sub-story: Tomoya Mashiro (1)",
-    "text": "Oh no! At this rate, that pervert's going to make me into his dress-up doll! Since that person's needlessly a master at changing clothes quickly and surprisingly strong, too, I can hardly put up a fight!"
+    "text": "Oh no! At this rate, that pervert's gonna make me into his dress-up doll! Since that person's needlessly a master at changing clothes quickly and surprisingly strong, too, I can hardly put up a fight!"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Sub-story: Tomoya Mashiro (2)",
-    "text": "No, it doesn't have to do with the Drama Club, so don’t worry. I've already gotten used to the president's eccentric ways you, could say."
+    "text": "No, it doesn't have to do with the Drama Club, so don't worry. I've already gotten used to the president's eccentric ways, you could say."
   },
   {
     "character": "Mitsuru Tenma",
     "story": "Dream Travel: Chapter 5",
-    "text": "Ah, it's the Mis~ter Masked Perv guy! Tomo-chan often talks about you, Mister! You guys get along well~♪"
+    "text": "Ah, it's the Mis~ter Masked Perv guy! Tomo-chan often talks about you, Mis~ter! You guys get along well~♪"
   },
   {
     "character": "Wataru Hibiki",
@@ -1027,7 +1037,7 @@
   {
     "character": "Mitsuru Tenma",
     "story": "Dream Travel: Chapter 5",
-    "text": "But I like Mis~ter Masked Perv. Tomo-chan also says he doesn't like being the \"Masked Pervert's target,\" but it doesn't seem like he hates him. What was it, \"people hate what they really love\"~?"
+    "text": "But I like Mis~ter Masked Perv. Tomo-chan also says he doesn't like being the \"Masked Pervert's target,\" but it doesn't seem like he hates him. What was it, \"The greatest hate proceeds from the greatest love\"~?"
   },
   {
     "character": "Wataru Hibiki",
