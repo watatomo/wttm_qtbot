@@ -5,6 +5,9 @@ const bot = new Twit(config)
 
 console.log("Bot has started!")
 
+var prevQuoteIndex = -1; // Initialize outside of function
+
+
 function postRandomQuote() {
   // Pick a random quote
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
@@ -52,12 +55,34 @@ function postQuote(quote) {
         console.log(data)
       });
   } catch (error) {
-      postRandomQuote(); // Repeat until no error
       console.log(error)
+
+      if (error == "Status is a duplicate")
+      postRandomQuote();
   }
 }
 
 // Try to fix stuff below
+
+function replyRandomQuote() {
+  var stream = bot.stream('statuses/filter', { track: '@wttm_qtbot random'})
+
+  stream.on('tweet', function (tweet) {
+    var reply = '@'
+    reply += tweet.user.screen_name
+    reply += postRandomQuote();
+
+    console.log(reply)
+
+    try {
+      bot.post('statuses/update', { status: quote }, function(err, data, response) {
+        console.log(data)
+      });
+    } catch (error) {
+      console.log(error)
+    }
+  })
+}
 
 function getRepliesAskingForSource(callback) {
   bot.get('search/tweets', { q: 'to:@wttm_qtbot source', count: 100 }, callback)
@@ -124,3 +149,4 @@ module.exports.replyAllWithSource = replyAllWithSource;
 module.exports.getParentTweet = getParentTweet;
 module.exports.getRepliesByBot = getRepliesByBot;
 module.exports.postRandomQuote = postRandomQuote;
+module.exports.replyRandomQuote = replyRandomQuote;
