@@ -1181,12 +1181,52 @@
   },
   {
     "character": "Nazuna Nito",
-    "story": " a home screen interaction (!!)",
+    "story": "a home screen interaction (!!)",
     "text": "\"A job that's out of the ordinary\"... Why don't you star in a variety show with someone as unique as Wataru-chin?"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "an office communication",
     "text": "Hibiki-senpai is...really cool, huh."
-  }
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "an office communication",
+    "text": "...Hm. I guess I should go say hi to him."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Amusement Live: Chapter 7",
+    "text": "Oho? Tomoya-kun, why are you averting your gaze? Please look at me more! Come on now, I'm being reflected in your eyes...♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Amusement Live: Chapter 7",
+    "text": "S-Stop it! I was doing my best to pretend we're strangers~! Rather, if you don't have any business here, get lost. We're busy practicing for the Live Party, so I don't have the time to give you attention, got it?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Amusement Live: Chapter 7",
+    "text": "You sure say some saddening things sometimes. Oh well, I know that this is just Tomoya-kun's way of making a pass at me in any way he can. Just kidding~ It's not like I have free time either. I'll leave once I'm done with my business here."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Amusement Live: Chapter 8",
+    "text": "Back up, I have no idea what you're talking about!? Prez, don't just agree with yourself and explain it to us in depth instead, will you~?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Amusement Live: Chapter 8",
+    "text": "I wish you'd understand what I'm thinking without having to put it into words~ This is proof that you don't love me enough yet."
+  },
+  {
+    "character": "Nazuna Nito",
+    "story": "Amusement Live: Chapter 10",
+    "text": "Ah~ It's because you do the same stuff to Tomo-chin that he hates you as well. And here I thought you weren't paying any mind to it, but I guess you worry as much as the next person."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Amusement Live: Chapter 10",
+    "text": "Oh, I don't plan to change anything regarding Tomoya-kun, though. I am inquiring strictly about countermeasures for Himegimi."
+  },
 ]
