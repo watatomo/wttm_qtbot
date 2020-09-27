@@ -935,26 +935,6 @@
     "text": "No, I really couldn't care less about that guy right now..."
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End (7)",
-    "text": "(Yeah, all of the customers' reactions were great... The mood's not bad at all. Buuut he can't use theatrics to distract them from the slow service forever. Everyone looks hungry and such... They'd probably prefer character over looks.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End (7)",
-    "text": "(Hibiki-senpai, I think they're coming back soon! Please hold out just a little bit longer!)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End (7)",
-    "text": "(Haha. Are you trying to say \"Hibiki-senpai, I really like you! You're so cool! I love you!\"? That's too much of a compliment for me. Thank you, Tomoya-kun♪ Kiss...☆)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End (7)",
-    "text": "(Uhm, I think there's a big misunderstanding here?! What was that weird signal I got back? Oh, fuck it. This signal can only mean one thing! The rest is up to you!)"
-  },
-  {
     "character": "Hokuto Hidaka",
     "story": "Passionate Carmen: Chapter 3",
     "text": "...Were you influenced by the Masked Pervert, Tomoya? Every once in a while, you start acting obscure. Even assuming that, it's especially more so today. It's strange, you know?"
@@ -1022,7 +1002,7 @@
   {
     "character": "Mitsuru Tenma",
     "story": "Dream Travel: Chapter 5",
-    "text": "Ah, it's the Mis~ter Masked Perv guy! Tomo-chan often talks about you, Mis~ter! You guys get along well~♪"
+    "text": "Ah, it's the Mi~ster Masked Perv guy! Tomo-chan often talks about you, Mi~ster! You guys get along well~♪"
   },
   {
     "character": "Wataru Hibiki",
@@ -1037,7 +1017,7 @@
   {
     "character": "Mitsuru Tenma",
     "story": "Dream Travel: Chapter 5",
-    "text": "But I like Mis~ter Masked Perv. Tomo-chan also says he doesn't like being the \"Masked Pervert's target,\" but it doesn't seem like he hates him. What was it, \"The greatest hate proceeds from the greatest love\"~?"
+    "text": "But I like Mi~ster Masked Perv. Tomo-chan also says he doesn't like being the \"Masked Pervert's target,\" but it doesn't seem like he hates him. What was it, \"The greatest hate proceeds from the greatest love\"~?"
   },
   {
     "character": "Wataru Hibiki",
@@ -1228,5 +1208,90 @@
     "character": "Wataru Hibiki",
     "story": "Amusement Live: Chapter 10",
     "text": "Oh, I don't plan to change anything regarding Tomoya-kun, though. I am inquiring strictly about countermeasures for Himegimi."
-  }
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (2)",
+    "text": "Whoaaa!? H-H-How the hell were you able to stick onto the ceiling, Hibiki-senpai!?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (2)",
+    "text": "Hehe, you're too naïve, Tomoya-kun! Since I'm an entertainer, I always have to look for ways to make an amazing entrance☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "Hey, what are you two doing? It's almost time for the grand opening, so please stop fooling around! Especially you, Hibiki-senpai! You're only here because Hokuto-senpai couldn't make it! Control yourself!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "You became a full-fledged member of society a long time ago. The academy clearly doesn't have your back anymore."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "Ah, the good ol' scolding...☆ However, the real world is far more selective than a school packed with a wide variety of people."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "In retrospect, aren't you still the same old Tomoya-kun? And I don't mean that in a bad way!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "You threw that at me so casually... I'm hurt. I mean, just because you said it wasn't \"in a bad way\" doesn't mean you can just go say whatever the hell you please!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "That's wonderful. You are raising the standards of what's \"normal\" in your own way~ It's a different approach from merely excelling in a single area, and I think it's commendable."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "Whatever you just said pisses me off... But that's just who you are."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "Heheh. Good guess, Tomoya-kun! It's exactly what you say it is! As idols and actors, we are sure to be beautiful, graceful, and sometimes adorable! I am certain the customers will be pleased♪"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "To show the others an example, please write \"LOVE\" in extra-large letters on my omurice...☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "Ahaha. This is Dead End Café, so I'll be drawing a skull instead. Is that alright with you? ♪"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (3)",
+    "text": "Oh my, even how you treat your superiors has changed~ Good grief, who taught you these manners?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (7)",
+    "text": "(Yeah, all of the customers' reactions were great... The mood's not bad at all. Buuut he can't use theatrics to distract them from the slow service forever. Everyone looks hungry and such... They'd probably prefer character over looks.)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (7)",
+    "text": "(Hibiki-senpai, I think they're coming back soon! Please hold out just a little bit longer!)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Dead End Street (7)",
+    "text": "(Haha. Are you trying to say \"Hibiki-senpai, I really like you! You're so cool! I love you!\"? That's too much of a compliment for me. Thank you, Tomoya-kun♪ Kiss...☆)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Dead End Street (7)",
+    "text": "(Uhm, I think there's a big misunderstanding here?! What was that weird signal I got back? Whatever. This signal can only mean one thing! The rest is up to you!)"
+  },
 ]
