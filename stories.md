@@ -17,6 +17,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Sub-story: Tomoya Mashiro (2)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_2)
 - [Sub-story: Hokuto Hidaka | Improv Theater](https://ensemble-stars.fandom.com/wiki/Hokuto_Hidaka/Sub_Story/Improv_Theater)
 - [Sub-story: Wataru Hibiki | Resounding Love](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Resounding_Love)
+- [Toy Box](https://ensemble-stars.fandom.com/wiki/Toy_Box)
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
@@ -34,6 +35,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Motives of Good Boys](https://ensemble-stars.fandom.com/wiki/Motives_of_Good_Boys)
 
 ### Winter
+- [2017 Christmas Campaign](https://ensemble-stars.fandom.com/wiki/2017_Christmas_Campaign)
 - [Zodiac 2](https://ensemble-stars.fandom.com/wiki/Zodiac_2)
 - [Phantom Thieves VS Detectives](https://ensemble-stars.fandom.com/wiki/Phantom_Thieves_VS_Detectives) `☆`
   - [Alternative translation](https://minashirosoushi.tumblr.com/tagged/enstars-tl)
