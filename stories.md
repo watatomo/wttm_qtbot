@@ -55,7 +55,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Summer
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
-- [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Partial, needs translating)* `☆`
+- [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
+  - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
 
 ### Other
 - Home Screen Interactions `☆`
@@ -69,5 +70,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like *(Needs translating)*
 - [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
 - [Mangnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
+- Idol Story: Tomoya Mashiro | To the Deutzia-Colored You *(Translation in progress)*
+- ! Home Screen Interactions
 
 And more unlisted...
