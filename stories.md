@@ -27,6 +27,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Sub-story: Wataru Hibiki | Reserved Joker](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Reversed_Joker)
 - [Amusement Live](https://ensemble-stars.fandom.com/wiki/Amusement_Live)
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
+- [Milky Way](https://ensemble-stars.fandom.com/wiki/Milky_Way)
 - [Passionate Carmen](https://ensemble-stars.fandom.com/wiki/Passionate_Carmen)
 
 ### Fall
