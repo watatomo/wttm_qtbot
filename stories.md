@@ -11,6 +11,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 ## ! Era
 
 ### Spring
+
 - [Reminiscence ＊ Marionette](https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette) `☆`
   - Reminiscence ＊ End of the Marionette's Strings: Tomoya Mashiro ★★★ Event | Dream School `☆`
 - [Sub-story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_1)
@@ -24,6 +25,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [School Festival 4](https://ensemble-stars.fandom.com/wiki/School_Festival_4)
 
 ### Summer
+
 - [Sub-story: Wataru Hibiki | Reserved Joker](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Reversed_Joker)
 - [Amusement Live](https://ensemble-stars.fandom.com/wiki/Amusement_Live)
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
@@ -31,11 +33,13 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Passionate Carmen](https://ensemble-stars.fandom.com/wiki/Passionate_Carmen)
 
 ### Fall
+
 - [Kung-fu](https://ensemble-stars.fandom.com/wiki/Kung_Fu)
 - [Rosicrucian Story](https://ensemble-stars.fandom.com/wiki/Rosicrucian_Story)
 - [Motives of Good Boys](https://ensemble-stars.fandom.com/wiki/Motives_of_Good_Boys)
 
 ### Winter
+
 - [2017 Christmas Campaign](https://ensemble-stars.fandom.com/wiki/2017_Christmas_Campaign)
 - [Zodiac 2](https://ensemble-stars.fandom.com/wiki/Zodiac_2)
 - [Phantom Thieves VS Detectives](https://ensemble-stars.fandom.com/wiki/Phantom_Thieves_VS_Detectives) `☆`
@@ -45,6 +49,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Human Comedy](https://ensemble-stars.fandom.com/wiki/Human_Comedy) `☆`
 
 ### Spring (Next year)
+
 - [Lost Legend](https://ensemble-stars.fandom.com/wiki/Lost_Legend)
 
 ---
@@ -52,20 +57,25 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 ## !! Era
 
 ### Spring
+
 - [Idol Story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Idol_Story/Part_1) `☆`
 
 ### Summer
+
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
 
 ### Other
+
+- Profiles `☆`
 - Home Screen Interactions `☆`
 - Office Communications `☆`
 
 ---
 
 ## Planned
+
 - [Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage](https://nebulancer.dreamwidth.org/13916.html) *(Needs re-translating)*
 - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Melancholy *(Needs translating)*
 - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like *(Needs translating)*
