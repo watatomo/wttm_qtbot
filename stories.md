@@ -14,6 +14,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 - [Reminiscence ＊ Marionette](https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette) `☆`
   - Reminiscence ＊ End of the Marionette's Strings: Tomoya Mashiro ★★★ Event | Dream School `☆`
+- [The Flag's Honor ＊ Flower Festival](https://ensemble-stars.fandom.com/wiki/The_Flag%27s_Honor_%EF%BC%8A_Flower_Festival)
 - [Sub-story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_1)
 - [Sub-story: Tomoya Mashiro (2)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_2)
 - [Sub-story: Hokuto Hidaka | Improv Theater](https://ensemble-stars.fandom.com/wiki/Hokuto_Hidaka/Sub_Story/Improv_Theater)
@@ -30,12 +31,14 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Amusement Live](https://ensemble-stars.fandom.com/wiki/Amusement_Live)
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
 - [Milky Way](https://ensemble-stars.fandom.com/wiki/Milky_Way)
+- [Orihime and Hikoboshi](https://ensemble-stars.fandom.com/wiki/Orihime_and_Hikoboshi)
 - [Passionate Carmen](https://ensemble-stars.fandom.com/wiki/Passionate_Carmen)
 
 ### Fall
 
 - [Kung-fu](https://ensemble-stars.fandom.com/wiki/Kung_Fu)
 - [Rosicrucian Story](https://ensemble-stars.fandom.com/wiki/Rosicrucian_Story)
+- [Meikyoushisui](https://ensemble-stars.fandom.com/wiki/Meikyoushisui)
 - [Motives of Good Boys](https://ensemble-stars.fandom.com/wiki/Motives_of_Good_Boys)
 
 ### Winter
