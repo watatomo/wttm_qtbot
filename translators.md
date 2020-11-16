@@ -1,9 +1,13 @@
-Translators with quotes in are listed here. Thank you for all your hard work!
+Translators with quotes in the bot are listed here. Thank you for all your hard work!
 
 ---
 
+- [appositewhite](https://twitter.com/appositewhite)
 - [Bakemonoremy](https://twitter.com/bakemonoremy)
 - [Bonni](https://twitter.com/hiiroaira)
+- [euni2319](https://euni2319.wordpress.com/)
+- [haranami](https://twitter.com/haranami_)
+- [healingbonds](https://healingbonds.dreamwidth.org/)
 - [Iridesenescence](https://twitter.com/iridesenescence)
 - [Kagehirin](https://ensemble-stars.fandom.com/wiki/User:Kagehirin)
 - [Karen/Yui](http://acarnivalofstars.tumblr.com/)
@@ -11,16 +15,12 @@ Translators with quotes in are listed here. Thank you for all your hard work!
 - [Keru](https://joyfulbox.dreamwidth.org/)
 - [Linnæus](https://ensemble-stars.fandom.com/wiki/User:Linnæus)
 - [Looks after rainbows](https://twitter.com/doublerainbow82)
-- [Ren](https://twitter.com/riamuyumemi)
-- [Renna](https://enstars-translations.tumblr.com/)
-- [Riitranslates](https://enstars-translates.dreamwidth.org/)
-- [Rina](https://minashirosoushi.tumblr.com/)
-- [Shoe](https://maluridae.dreamwidth.org/)
-- [Stepphes](https://stepphes.dreamwidth.org/)
-- [appositewhite](https://twitter.com/appositewhite)
-- [euni2319](https://euni2319.wordpress.com/)
-- [haranami](https://twitter.com/haranami_)
-- [healingbonds](https://healingbonds.dreamwidth.org/)
 - [narukaru](https://narukaru.dreamwidth.org/)
 - [nebulancer](https://nebulancer.dreamwidth.org/)
+- [Renna](https://enstars-translations.tumblr.com/)
+- [Ren](https://twitter.com/riamuyumemi)
+- [Riitranslates](https://enstars-translates.dreamwidth.org/)
+- [Rina](https://minashirosoushi.tumblr.com/)
 - [sesera](https://frecklegirl.dreamwidth.org/)
+- [Shoe](https://maluridae.dreamwidth.org/)
+- [Stepphes](https://stepphes.dreamwidth.org/)

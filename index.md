@@ -14,6 +14,8 @@ This bot is still in the works. Suggestions are always appreciated.
 
 Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.com/riamuyumemi) or [open an issue](https://github.com/watatomo/wttm_qtbot/issues).
 
+[Interested in the pair? Here's a guide about them in the works!](https://docs.google.com/spreadsheets/d/18ylSdsvVpY8lNWUp9sW9XWG7DFcxFyQO8QfMf5267tc/edit?usp=sharing)
+
 ### To-do
 
 - [ ] Reply with quote source if asked for it
