@@ -1,0 +1,26 @@
+Translators with quotes in are listed here. Thank you for all your hard work!
+
+---
+
+- [Bakemonoremy](https://twitter.com/bakemonoremy)
+- [Bonni](https://twitter.com/hiiroaira)
+- [Iridesenescence](https://twitter.com/iridesenescence)
+- [Kagehirin](https://ensemble-stars.fandom.com/wiki/User:Kagehirin)
+- [Karen/Yui](http://acarnivalofstars.tumblr.com/)
+- [Keiya](https://mantennohoshi.dreamwidth.org/)
+- [Keru](https://joyfulbox.dreamwidth.org/)
+- [Linnæus](https://ensemble-stars.fandom.com/wiki/User:Linnæus)
+- [Looks after rainbows](https://twitter.com/doublerainbow82)
+- [Ren](https://twitter.com/riamuyumemi)
+- [Renna](https://enstars-translations.tumblr.com/)
+- [Riitranslates](https://enstars-translates.dreamwidth.org/)
+- [Rina](https://minashirosoushi.tumblr.com/)
+- [Shoe](https://maluridae.dreamwidth.org/)
+- [Stepphes](https://stepphes.dreamwidth.org/)
+- [appositewhite](https://twitter.com/appositewhite)
+- [euni2319](https://euni2319.wordpress.com/)
+- [haranami](https://twitter.com/haranami_)
+- [healingbonds](https://healingbonds.dreamwidth.org/)
+- [narukaru](https://narukaru.dreamwidth.org/)
+- [nebulancer](https://nebulancer.dreamwidth.org/)
+- [sesera](https://frecklegirl.dreamwidth.org/)
