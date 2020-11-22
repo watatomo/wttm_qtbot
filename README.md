@@ -8,7 +8,7 @@
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
-The bot and its README is still in the works. Suggestions are always appreciated.
+[Interested in the pair? Here's a guide about them in the works!](https://docs.google.com/spreadsheets/d/18ylSdsvVpY8lNWUp9sW9XWG7DFcxFyQO8QfMf5267tc/edit?usp=sharing)
 
 ## Features
 
@@ -17,9 +17,9 @@ Tweets every *45 minutes*, can be changed later on. The bot runs *locally from i
 ### To-do
 
 - [ ] Reply with quote source if asked for it
-- [ ] Random quote when mentioned "random"
-- [ ] Reply with in-game screenshots if mentioned "image"
+- [x] Translator page
 - [ ] Page of quotes owner translated
+- [ ] Fix duplicate tweets problem
 
 ## Quick Start
 
@@ -45,7 +45,7 @@ POST_TO_TWITTER=true
 
 This bot is basically a fork of [QuoteableSatoshi](https://github.com/dergigi/QuotableSatoshi).
 
-Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://watatomo.github.io/wttm_qtbot/#/stories).
+Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://watatomo.github.io/wttm_qtbot/#/stories). A complete list of translators can be found [here](https://watatomo.github.io/wttm_qtbot/#/translators).
 
 ---
 

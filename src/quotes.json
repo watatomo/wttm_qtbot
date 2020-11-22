@@ -217,12 +217,12 @@
   {
     "character": "Mitsuru Tenma",
     "story": "High Five!: Hop Step (1)",
-    "text": "Tomo-chan's able to blow off steam thanks to the Masked Pervert dude. Or like, he's gotten used to these kinda things and stuff?"
+    "text": "Do you think it's all thanks to that Masked Pervert dude? Some people scream into pillows to release stress. Maybe Tomo-chan does it by screamin' at that guy. Or maybe he's just built up a tolerance for puttin' up with crazy?"
   },
   {
     "character": "Hajime Shino",
     "story": "High Five!: Hop Step (1)",
-    "text": "Hehe. Hibiki-senpai hasn't been paying much attention to Tomoya-kun lately, so his stress has been building up again, don't you think? I know how he feels, as I also want Akehoshi-senpai to give me lots of hugs and head pa—"
+    "text": "It seems like Hibiki-senpai isn't able to pay as much attention to Tomoya-kun as he used to. Perhaps he does have a lot of pent-up stress, and no outlet for it? I get it. I miss having Akehoshi-senpai around to pat me on the head or give me a tight squeeze every now and then—"
   },
   {
     "character": "Shu Itsuki",
@@ -372,7 +372,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Lost Legend: Chapter 2",
-    "text": "Aah, \"In my hands, I have: Wataru Hibiki. If you want to ensure his safety, then come and rescue him...☆\"... What the hell?! This is totally a one man show! Who would kidnap him! Absolutely nobody would kidnap him at all!"
+    "text": "Ahh, \"In my hands, I have: Wataru Hibiki. If you want to ensure his safety, then come and rescue him...☆\" What the hell?! This is totally a one man show! Who would kidnap him! Absolutely nobody would kidnap him at all!"
   },
   {
     "character": "Tomoya Mashiro",
@@ -736,6 +736,21 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (2)",
+    "text": "Always brimming with self-confidence, aren't you? Whatever, you're talented as hell. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Phantom Thieves VS Detectives: Epilogue (2)",
+    "text": "President, are you crying...?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Phantom Thieves VS Detectives: Epilogue (2)",
+    "text": "Oh? This is a funny story—is there a reason to be crying? You say such strange things, Tomoya-kun!"
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (3)",
     "text": "...President, let me help clean up after all. I've been watching for a while, but it doesn't look like it's gonna be over any time soon."
   },
@@ -767,7 +782,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Today's DreamFes actually reminded me of a movie I watched recently, for instance—it was quite interesting. After I get home, perhaps I shall go watch it again, stuffing my cheeks with junk food as I lie on the floor."
+    "text": "Today's Dream Festival actually reminded me of a movie I watched recently, for instance—it was quite interesting. After I get home, perhaps I shall go watch it again, stuffing my cheeks with junk food as I lie on the floor."
   },
   {
     "character": "Tomoya Mashiro",
@@ -862,12 +877,17 @@
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "My my, how reliable. However, if you keep looking up, you'll end up tripping over your own two feet. Focus on what is before your eyes—the live that will continue into tomorrow. Everything after that can be contemplated when it is all over."
+    "text": "My my, how reliable. However, if you keep looking up, you'll end up tripping over your own two feet. Focus on what is before your eyes—the show that will continue into tomorrow. Everything after that can be contemplated when it is all over."
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (4)",
     "text": "Yessir. I wanna participate in Drama Club activities after all, too. Right, I want to have a chat about that later."
+  },
+  {
+    "character": "Nazuna Nito",
+    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
+    "text": "(...So you can smile like that, Wataru-chin. That kind of smile is the most charming—like a boy your age should smile. Nice job, Tomo-chin. That's the treasure you were able to find because you're you.)"
   },
   {
     "character": "Wataru Hibiki",
@@ -932,7 +952,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Do your best at the live, alright? I will be here to support you, Tomoya-kun...♪"
+    "text": "Do your best at the show, alright? I will be here to support you, Tomoya-kun...♪"
   },
   {
     "character": "Tomoya Mashiro",
@@ -943,26 +963,6 @@
     "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Revelations (4)",
     "text": "(I wonder if President Hibiki is watching from somewhere, too. He has a really ridiculous presence, so I should be able to tell if he's here in the auditorium. Hmmm...)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
-    "text": "Always brimming with self-confidence, aren't you? Whatever, you're talented as hell. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
-    "text": "President, are you crying...?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (2)",
-    "text": "Oh? This is a funny story—is there a reason to be crying? You say such strange things, Tomoya-kun!"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Phantom Thieves VS. Detectives: Epilogue (4)",
-    "text": "(...So you can smile like that, Wataru-chin. That kind of smile is the most charming—like a boy your age should smile. Nice job, Tomo-chin. That's the treasure you were able to find because you're you.)"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1347,7 +1347,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "From here on, as long as you're the Drama Club president, I'm sure there'll be plenty to worry about. But I'm glad the audience enjoyed the play. I'll keep doing my best as a member of the Drama Club. Just don't make me do a crazy show like this again, President, okay?"
+    "text": "From here on, as long as you're the Drama Club president, I'm sure there'll be plenty to worry about. But I'm glad the audience enjoyed the play. I'll keep doing my best as a member of the Drama Club. Just don't make me do a crazy show like this again, Prez, okay?"
   },
   {
     "character": "Mitsuru Tenma",
