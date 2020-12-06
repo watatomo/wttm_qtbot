@@ -23,6 +23,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
+  - [Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
+  - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like *(Partial, needs translating)* `☆`
 - [School Festival 4](https://ensemble-stars.fandom.com/wiki/School_Festival_4)
 
 ### Summer
@@ -81,8 +83,6 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 ## Planned
 
 - [Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage](https://nebulancer.dreamwidth.org/13916.html) *(Needs re-translating)*
-- Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Melancholy *(Needs translating)*
-- Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like *(Needs translating)*
 - [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
 - [Mangnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
 - Idol Story: Tomoya Mashiro | To the Deutzia-Colored You *(Translation in progress)*
