@@ -18,6 +18,7 @@ Translators with quotes in the bot are listed here. Thank you for all your hard 
 - [Nanairo](https://twitter.com/yuki_rurikawa)
 - [narukaru](https://narukaru.dreamwidth.org/)
 - [nebulancer](https://nebulancer.dreamwidth.org/)
+- [Peace](https://twitter.com/yoroshikilled)
 - [Renna](https://enstars-translations.tumblr.com/)
 - [Ren](https://twitter.com/riamuyumemi)
 - [Riitranslates](https://enstars-translates.dreamwidth.org/)
