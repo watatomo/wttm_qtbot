@@ -1,5 +1,15 @@
 [
   {
+    "character": "Tomoya Mashiro",
+    "story": "2017 Christmas Campaign",
+    "text": "Ugh, a creepy mask... This is definitely the Masked Pervert's, isn't it? Even though it's Christmas, he still wanted something like this... He's completely beyond understanding."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "2020 Christmas Campaign",
+    "text": "When I woke up, there was a present for me with \"Amazing!\" written on the tag."
+  },
+  {
     "character": "Nazuna Nito",
     "story": "a home screen interaction (!!)",
     "text": "\"A job that's out of the ordinary\"... Why don't you star in a variety show with someone as unique as Wataru-chin?"
@@ -386,23 +396,108 @@
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "Idol Story: Tomoya Mashiro (1)",
+    "story": "Idol Story: Tomoya Mashiro (1 - !!)",
     "text": "\"Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪\""
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "Idol Story: Tomoya Mashiro (1)",
+    "story": "Idol Story: Tomoya Mashiro (1 - !!)",
     "text": "Yep, it's similar to Puck from A Midsummer Night's Dream. I play a trickster who skips across the stage and causes trouble. The role reminded me of two guys I look up to, so I was really motivated!"
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "Idol Story: Tomoya Mashiro (1)",
+    "story": "Idol Story: Tomoya Mashiro (1 - !)",
     "text": "Oh no! At this rate, that pervert's gonna make me into his dress-up doll! Since that person's needlessly a master at changing clothes quickly and surprisingly strong, too, I can hardly put up a fight!"
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "Idol Story: Tomoya Mashiro (2)",
+    "story": "Idol Story: Tomoya Mashiro (2 - !)",
     "text": "No, it doesn't have to do with the Drama Club, so don't worry. I've already gotten used to the president's eccentric ways, you could say."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (1)",
+    "text": "Woah!? A dove just came out of that sleeve... And it's talking!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (1)",
+    "text": "Tomoya-kun. Have you finally come up with an idea for your personalized outfit after trying on costume after costume?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (1)",
+    "text": "What do you want to be? Who do you want to be?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Everything you wear will suit you, and as such you'll be able to play any role you'd like. Just like your name, you are a canvas of pure white. You can be painted in any color; you can become anything your heart desires."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Perhaps I can only view this so positively because it is precisely what I am lacking, but... Your \"problem\" is actually a skill that those with strong personalities cannot obtain no matter how desperately they may wish to."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on WholeHands."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Hoho. I was wondering who you were searching for—to think that it was me."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Eep! D-Don't just show up out of the blue! You should've just called out to me... Geez."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Here. This is the design for my personalized outfit. I took your advice and such, so I thought I'd better show the final outcome to you."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "You're still a blank canvas at the moment; I can't help but wonder what colors you'll paint yourself with in the future... I grow more and more eager to observe your growth."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Tomoya Mashiro | To the Deutzia-Colored You (2)",
+    "text": "Ahaha. I'm also looking forward to what my future as an idol holds. This is only the first step... With this costume, I shall march towards that future with confidence!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Wataru Hibiki | Animal Presentation",
+    "text": "By the way, Tomoya-kun. Do you have any recollection of that dove you're holding?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Wataru Hibiki | Animal Presentation",
+    "text": "That's absolutely correct; this is the child you saved. She hasn't been bullied by those around her at all lately, and now—as you can see—she's doing perfectly well."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Wataru Hibiki | Animal Presentation",
+    "text": "\"Saved\"? You're exaggerating. You were the one who actually took care of her."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Wataru Hibiki | Animal Presentation",
+    "text": "However, if you hadn't brought her to me, I wouldn't have even known she was in such a state. And she surely wouldn't have emerged unscathed either. So you truly did save her, Tomoya-kun."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Idol Story: Wataru Hibiki | Animal Presentation",
+    "text": "I take my doves on walks through the sky in my hot air balloon, you see. On that note, Tomoya-kun, let us do exactly that...☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Idol Story: Wataru Hibiki | Animal Presentation",
+    "text": "Woaaah! Don't jump onto the balloon while carrying meee! P-Put me down~!"
   },
   {
     "character": "Hokuto Hidaka",
@@ -1231,7 +1326,7 @@
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like (3)",
+    "story": "Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderellaesque (3)",
     "text": "Believe in...myself? That's surprising for you to say... Since you're nothing even like what a club president should be. But I guess what you said resonates with me. Just a little bit."
   },
   {
@@ -1418,11 +1513,6 @@
     "character": "Tomoya Mashiro",
     "story": "Tanabata Festival: Epilogue (2)",
     "text": "Shut up, Masked Pervert! Don't talk to me—I don't want people to think that we know each other!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "the 2017 Christmas Campaign",
-    "text": "Ugh, a creepy mask... This is definitely the Masked Pervert's, isn't it? Even though it's Christmas, he still wanted something like this... He's completely beyond understanding."
   },
   {
     "character": "Wataru Hibiki",
