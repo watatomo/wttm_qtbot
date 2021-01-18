@@ -2,7 +2,7 @@ Listed in "chronological" order.
 
 Stories marked with a `☆` mean that the bot contains quotes from it that are translated by [its owner](https://twitter.com/riamuyumemi). Not all of the lines he translated are on the wiki. All of the translators with quotes on this bot can be found [here](translators.md).
 
-Note that some quotes are edited from the original to make more sense out of context, fix grammar, or to patch up mistranslations.
+Note that some quotes are edited from the original to make more sense out of context, fix grammar, or to patch up mistranslations. Also, they are edited to fit the owner's style guide.
 
 Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messages/compose?recipient_id=1281322573049954305) to submit one. Be sure to include the quote's source (story + chapter) as well.
 
@@ -24,7 +24,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
   - [Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
-  - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like *(Partial, needs translating)* `☆`
+  - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderellaesque *(Partial, needs translating)* `☆`
 - [School Festival 4](https://ensemble-stars.fandom.com/wiki/School_Festival_4)
 
 ### Summer
@@ -67,6 +67,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Summer
 
+- [Idol Story: Tomoya Mashiro | To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
 - [Idol Story: Wataru Hibiki | That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
@@ -77,6 +78,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - Profiles `☆`
 - Home Screen Interactions `☆`
 - Office Communications `☆`
+- 2020 Christmas Campaign `☆`
 
 ---
 
@@ -84,8 +86,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 - [Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage](https://nebulancer.dreamwidth.org/13916.html) *(Needs re-translating)*
 - [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
-- [Mangnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
-- Idol Story: Tomoya Mashiro | To the Deutzia-Colored You *(Translation in progress)*
+- [Magnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
 - ! Home Screen Interactions
+- Idol Story: Wataru Hibiki | 2018 Birthday Celebration (Tomoya Mashiro) *(Will be added on Wataru's birthday)*
 
 And more unlisted...
