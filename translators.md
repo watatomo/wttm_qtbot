@@ -17,6 +17,7 @@ Translators with quotes in the bot are listed here. Thank you for all your hard 
 - [Looks after rainbows](https://twitter.com/doublerainbow82)
 - [Nanairo](https://twitter.com/yuki_rurikawa)
 - [narukaru](https://narukaru.dreamwidth.org/)
+- [Nazunyan](https://twitter.com/nazunyan427)
 - [nebulancer](https://nebulancer.dreamwidth.org/)
 - [Peace](https://twitter.com/yoroshikilled)
 - [Renna](https://enstars-translations.tumblr.com/)
