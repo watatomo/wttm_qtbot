@@ -13,7 +13,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 ### Spring
 
 - [Reminiscence ＊ Marionette](https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette) `☆`
-  - Reminiscence ＊ End of the Marionette's Strings: Tomoya Mashiro ★★★ Event | Dream School `☆`
+  - Reminiscence ＊ End of the Marionette's Strings: [Mini Talk] Tomoya Mashiro: Dream School `☆`
 - [The Flag's Honor ＊ Flower Festival](https://ensemble-stars.fandom.com/wiki/The_Flag%27s_Honor_%EF%BC%8A_Flower_Festival)
 - [Sub-story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_1)
 - [Sub-story: Tomoya Mashiro (2)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_2)
@@ -23,8 +23,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
-  - [Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
-  - Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderellaesque *(Partial, needs translating)* `☆`
+  - [Play Your Part! Cinderella's Grand Stage: [Mini Talk] Tomoya Mashiro: A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
+  - Play Your Part! Cinderella's Grand Stage: [Mini Talk] Tomoya Mashiro: Cinderellaesque *(Partial, needs translating)* `☆`
 - [School Festival 4](https://ensemble-stars.fandom.com/wiki/School_Festival_4)
 
 ### Summer
@@ -57,6 +57,10 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 - [Lost Legend](https://ensemble-stars.fandom.com/wiki/Lost_Legend_(Story))
 
+### Other
+
+- [[Mini Talk] Tomoya Mashiro](https://ensemble-stars.fandom.com/wiki/Mini_Events/Tomoya_Mashiro)
+
 ---
 
 ## !! Era
@@ -69,16 +73,19 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 - [Idol Story: Tomoya Mashiro | To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
 - [Idol Story: Wataru Hibiki | That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
+- [Idol Story: Wataru Hibiki | Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal Presentation)
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
+
+### Winter
+- 2020 Christmas Campaign `☆`
 
 ### Other
 
 - Profiles `☆`
 - Home Screen Interactions `☆`
 - Office Communications `☆`
-- 2020 Christmas Campaign `☆`
 
 ---
 
