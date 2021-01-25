@@ -13,7 +13,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 ### Spring
 
 - [Reminiscence ＊ Marionette](https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette) `☆`
-  - Reminiscence ＊ End of the Marionette's Strings: [Mini Talk] Tomoya Mashiro: Dream School `☆`
+  - [Mini Talk] Tomoya Mashiro: Dream School `☆`
 - [The Flag's Honor ＊ Flower Festival](https://ensemble-stars.fandom.com/wiki/The_Flag%27s_Honor_%EF%BC%8A_Flower_Festival)
 - [Sub-story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_1)
 - [Sub-story: Tomoya Mashiro (2)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_2)
@@ -23,8 +23,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
-  - [Play Your Part! Cinderella's Grand Stage: [Mini Talk] Tomoya Mashiro: A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
-  - Play Your Part! Cinderella's Grand Stage: [Mini Talk] Tomoya Mashiro: Cinderellaesque *(Partial, needs translating)* `☆`
+  - [[Mini Talk] Tomoya Mashiro: A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
+  - [Mini Talk] Tomoya Mashiro: Cinderellaesque *(Partial, needs translating)* `☆`
 - [School Festival 4](https://ensemble-stars.fandom.com/wiki/School_Festival_4)
 
 ### Summer
