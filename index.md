@@ -22,6 +22,7 @@ Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.c
 - [x] Translator page
 - [ ] Page of quotes owner translated
 - [ ] Fix duplicate tweets problem
+- [ ] Other media page
 
 ---
 

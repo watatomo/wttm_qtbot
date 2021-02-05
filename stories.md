@@ -74,7 +74,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Hajime Shino (2)](https://ensemble-stars.fandom.com/wiki/Hajime_Shino/Idol_Story/Part_2)
 - [[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
 - [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
-- [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal Presentation)
+- [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal_Presentation)
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
@@ -97,6 +97,6 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
 - [Magnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
 - ! Home Screen Interactions
-- [Idol Story] Wataru Hibiki | 2018 Birthday Celebration (Tomoya Mashiro) *(Will be added on Wataru's birthday)*
+- [Idol Story] Wataru Hibiki: Birthday Celebration (2018 - Tomoya Mashiro) *(Will be added on Wataru's birthday)*
 
 And more unlisted...
