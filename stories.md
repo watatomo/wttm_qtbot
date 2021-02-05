@@ -15,10 +15,10 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Reminiscence ＊ Marionette](https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette) `☆`
   - [Mini Talk] Tomoya Mashiro: Dream School `☆`
 - [The Flag's Honor ＊ Flower Festival](https://ensemble-stars.fandom.com/wiki/The_Flag%27s_Honor_%EF%BC%8A_Flower_Festival)
-- [Sub-story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_1)
-- [Sub-story: Tomoya Mashiro (2)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_2)
-- [Sub-story: Hokuto Hidaka | Improv Theater](https://ensemble-stars.fandom.com/wiki/Hokuto_Hidaka/Sub_Story/Improv_Theater)
-- [Sub-story: Wataru Hibiki | Resounding Love](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Resounding_Love)
+- [[Idol Story] Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_1)
+- [[Idol Story] Tomoya Mashiro (2)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Part_2)
+- [[Idol Story] Hokuto Hidaka: Improv Theater](https://ensemble-stars.fandom.com/wiki/Hokuto_Hidaka/Sub_Story/Improv_Theater)
+- [[Idol Story] Wataru Hibiki: Resounding Love](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Resounding_Love)
 - [Toy Box](https://ensemble-stars.fandom.com/wiki/Toy_Box)
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
@@ -29,7 +29,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Summer
 
-- [Sub-story: Wataru Hibiki | Reserved Joker](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Reversed_Joker)
+- [[Idol Story] Wataru Hibiki: Reserved Joker](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Reversed_Joker)
 - [Amusement Live](https://ensemble-stars.fandom.com/wiki/Amusement_Live)
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
 - [Milky Way](https://ensemble-stars.fandom.com/wiki/Milky_Way)
@@ -67,19 +67,21 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Spring
 
-- [Idol Story: Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Idol_Story/Part_1) `☆`
+- [[Idol Story] Tomoya Mashiro (1)](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Idol_Story/Part_1) `☆`
 
 ### Summer
 
-- [Idol Story: Tomoya Mashiro | To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
-- [Idol Story: Wataru Hibiki | That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
-- [Idol Story: Wataru Hibiki | Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal Presentation)
+- [[Idol Story] Hajime Shino (2)](https://ensemble-stars.fandom.com/wiki/Hajime_Shino/Idol_Story/Part_2)
+- [[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
+- [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
+- [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal Presentation)
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
 
 ### Winter
 - 2020 Christmas Campaign `☆`
+- [[Mini Talk] Natsume Sakasaki: Birthday Celebration (2021)](https://bellatranslates.dreamwidth.org/24791.html)
 
 ### Other
 
@@ -91,10 +93,10 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ## Planned
 
-- [Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage](https://nebulancer.dreamwidth.org/13916.html) *(Needs re-translating)*
+- [[Idol Story] Tomoya Mashiro: Cinderella on the Stake's Stage](https://nebulancer.dreamwidth.org/13916.html) *(Needs re-translating)*
 - [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
 - [Magnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
 - ! Home Screen Interactions
-- Idol Story: Wataru Hibiki | 2018 Birthday Celebration (Tomoya Mashiro) *(Will be added on Wataru's birthday)*
+- [Idol Story] Wataru Hibiki | 2018 Birthday Celebration (Tomoya Mashiro) *(Will be added on Wataru's birthday)*
 
 And more unlisted...
