@@ -50,6 +50,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Phantom Thieves VS Detectives](https://ensemble-stars.fandom.com/wiki/Phantom_Thieves_VS_Detectives) `☆`
   - [Alternative translation](https://minashirosoushi.tumblr.com/tagged/enstars-tl)
 - [Transparency and Masks](https://ensemble-stars.fandom.com/wiki/Transparency_and_Masks) *(Partial, needs re-translating)* `☆`
+- [[Idol Story] Wataru Hibiki: Birthday Celebration (2018 - Tomoya Mashiro)](https://twitter.com/riamuyumemi/status/1363141364880318466) `☆`
 - [Dream Travel](https://ensemble-stars.fandom.com/wiki/Dream_Travel)
 - [Human Comedy](https://ensemble-stars.fandom.com/wiki/Human_Comedy) `☆`
 
@@ -74,14 +75,15 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Hajime Shino (2)](https://ensemble-stars.fandom.com/wiki/Hajime_Shino/Idol_Story/Part_2)
 - [[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
 - [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
-- [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal_Presentation)
-- [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!) *(Partial, needs translating)* `☆`
+- [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal_Presentation) `☆`
+- [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!)
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
 
 ### Winter
 - 2020 Christmas Campaign `☆`
 - [[Mini Talk] Natsume Sakasaki: Birthday Celebration (2021)](https://bellatranslates.dreamwidth.org/24791.html)
+- [[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)](https://twitter.com/iridesenescence/status/1363200151783837700)
 
 ### Other
 
@@ -97,6 +99,5 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
 - [Magnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
 - ! Home Screen Interactions
-- [Idol Story] Wataru Hibiki: Birthday Celebration (2018 - Tomoya Mashiro) *(Will be added on Wataru's birthday)*
 
 And more unlisted...
