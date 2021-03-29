@@ -65,9 +65,29 @@
     "text": "No, it doesn't have to do with the Drama Club, so don't worry. I've already gotten used to the president's eccentric ways, you could say."
   },
   {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
+    "text": "Happy birthday, Tomoya-kun...! ☆ I've readied an abundance of presents for you!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
+    "text": "Oh my, you don't look too happy. You're the birthday boy; you simply mustn't make such an expression! Very well, I shall perform some magic tricks that will put a smile on your face...☆"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
+    "text": "Roses for you! And gerberas, tulips, and some magnificent orchids! Ahaha, you're all covered in flowers! Aren't they beautiful, Tomoya-kun? The rose petals on the cake? Hehehe, no need to fret. I assure you that they're all edible."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
+    "text": "There's more than just flowers waiting for you, so please accept them—every last one♪"
+  },
+  {
     "character": "Tomoya Mashiro",
     "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (1)",
-    "text": "Woah!? A dove just came out of that sleeve... And it's talking!"
+    "text": "Woah?! A dove just came out of that sleeve... And it's talking!"
   },
   {
     "character": "Wataru Hibiki",
@@ -152,12 +172,12 @@
   {
     "character": "Tomoya Mashiro",
     "story": "[Idol Story] Wataru Hibiki: Birthday Celebration (2018)",
-    "text": "Happy birthday, Masked Perv. Woah, why are you crying!? Uh, you want me to say it with your name instead? Ugh~ Fine... Happy birthday, President Hibiki!"
+    "text": "Happy birthday, Masked Perv. Woah, why are you crying?! Uh, you want me to say it with your name instead? Ugh~ Fine... Happy birthday, President Hibiki!"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "[Idol Story] Wataru Hibiki: Birthday Celebration (2018)",
-    "text": "Hmm...? Did you seriously record all of that!? The recording's \"perfect\"? Ah, and those tears were fake!? Dammit... I just let my guard down because it's your birthday~!"
+    "text": "Hmm...? Did you seriously record all of that?! The recording's \"perfect\"? Ah, and those tears were fake?! Dammit... I just let my guard down because it's your birthday~!"
   },
   {
     "character": "Hokuto Hidaka",
@@ -232,7 +252,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "Uwaah!? W-When did you get here...? Were you listening to that?"
+    "text": "Uwaah?! W-When did you get here...? Were you listening to that?"
   },
   {
     "character": "Tomoya Mashiro",
@@ -253,6 +273,16 @@
     "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro",
     "text": "Yeah...! If I get tall enough to overtake the Masked Pervert, I could become a cool prince like Hokuto-senpai!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Birthday Celebration (2021)",
+    "text": "I wonder what could it be? I hope it's not a prank... Hibiki-senpai suddenly came into my mind, does it have something to do with him? Huh? Why are you smiling at me so suspiciously, Anzu-san?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Birthday Celebration (2021)",
+    "text": "Um... When I open the biggest box, Hibiki-senpai is going to jump out—is that the surprise? Alright, then I'll start with the smallest... Whoa! There's white smoke coming from the inside! ...M-Masked Pervert?! Why are you jumping out of the smallest box?!"
   },
   {
     "character": "Wataru Hibiki",
@@ -312,7 +342,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Amusement Live: Chapter 8",
-    "text": "Back up, I have no idea what you're talking about!? Prez, don't just agree with yourself and explain it to us in depth instead, will you~?"
+    "text": "Back up, I have no idea what you're talking about?! Prez, don't just agree with yourself and explain it to us in depth instead, will you~?"
   },
   {
     "character": "Wataru Hibiki",
@@ -347,7 +377,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Dead End Land: Dead End Street (2)",
-    "text": "Whoaaa!? H-H-How the hell were you able to stick onto the ceiling, Hibiki-senpai!?"
+    "text": "Whoaaa?! H-H-How the hell were you able to stick onto the ceiling, Hibiki-senpai?!"
   },
   {
     "character": "Wataru Hibiki",
@@ -427,7 +457,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Dead End Land: Dead End Street (5)",
-    "text": "What the actual hell does that even mean!?"
+    "text": "What the actual hell does that even mean?!"
   },
   {
     "character": "Wataru Hibiki",
@@ -487,7 +517,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Dead End Land: Dead End Street (6)",
-    "text": "Since when did I ever see you as my dad!?"
+    "text": "Since when did I ever see you as my dad?!"
   },
   {
     "character": "Tomoya Mashiro",
@@ -538,6 +568,121 @@
     "character": "Wataru Hibiki",
     "story": "Dead End Land: Dead End Street (7)",
     "text": "(Hehe. Fret not; I've received your message, Tomoya-kun. This is mere child's play when compared to the feats I had to accomplish in Mrs. Hidaka's grueling audition.)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "Right now, Hibiki-senpai's putting on a show to stall for us. If we can't get the food out in time, the customers would get upset. We gotta turn the tables before that happens. Just look at him. He's been doing that all afternoon."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "Ahaha. More often than not, he overshadows the lead despite being a supporting actor. That guy likes playing comedic roles. Actually, with how easily he grabs the spotlight, it's no wonder why he takes the stage! Seriously... He never ceases to amaze everyone."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "No, no. That's just theater talk for \"he's a really talented guy.\" Since Hibiki-senpai can pretty much do anything, there's no need for him to rely on any gimmicks."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "But y'know, you can't do a one-man show on the grand stage. There's only one Hibiki-senpai, so of course I have to help him."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "(The café has been rather disorderly for quite a while now, but that, too, should be resolved as soon as Tomoya-kun and I take charge.)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "(But, first, I'd best clear up his misunderstandings. Although I am an actor—a single individual—I am also \"your\" Wataru Hibiki.)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "(If you believe that I'd do something as \"normal\" as only playing one role, perish the thought! I shall play three, four—nay, an infinite amount of them! ...If that is what is desired of me by my audience—the you to whom this Wataru Hibiki is dedicated.)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "...Very well then! Ladies and gentlemen, feast your eyes as I saw Tomoya-kun in half!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "Hehehe. I suspected something like this may happen, so I even brought along a box and sword for the occasion♪ The tools have already been prepared, so all that's left is for you to step inside the box...☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "No way in hell. What do you mean that you \"suspected something like this may happen\"?! And why did you even bring those here, Hibiki-senpai?! We are NOT going to put the \"dead end\" in \"Dead End Café\"!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "Oh? But I'm certain everyone here would love to see you get sawn in half... Are you really going to refuse them all, Tomoya-kun?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (1)",
+    "text": "Stop! This isn't funny! Why are you staring at me like th— AaaaaiiiIIIEEEEEEE?!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Tomoya-kun, what incredible moxie! You had such amazing reactions☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Ugh, I'm seriously exhausted... I was genuinely terrified! It doesn't matter how much of it was just \"magic,\" I really thought I was gonna have a heart attack!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Hm~ It was because of your dedication to the show that all the customers were able to enjoy it to the fullest, though!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "And so, due to the disorder in the restaurant turning into excitement, we were able to have an extremely satisfying opening event! It was certainly a performance befitting Dead End Café♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Could you not involve me in such a dangerous act without letting me know first?!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "You might've just been pretending to debate with yourself on whether you'd actually shove that sword right through me or not, but I seriously thought I was gonna die!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Hehehe. If we are to deceive an audience, it simply must be from atop a stage...♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "You can't pull one over on me by trying to say it like it's some proverb, okay?!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Of course I would. Are you having any, Hibiki-senpai?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "The show must go on... On stage, whatever will be, will be. It is simply inevitable that you will be involved in such predicaments when performing, Tomoya-kun♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Dead End Land: Epilogue (2)",
+    "text": "Uh, no. Don't try to justify your actions from earlier."
   },
   {
     "character": "Mitsuru Tenma",
@@ -842,7 +987,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Performance: Romeo and Juliet (Chapter 3)",
-    "text": "Wait, what do you mean you're not interested!? Even though you're always all over me to the point that it's insufferable!?"
+    "text": "Wait, what do you mean you're not interested?! Even though you're always all over me to the point that it's insufferable?!"
   },
   {
     "character": "Wataru Hibiki",
@@ -1402,7 +1547,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "If we can pass the exam for this school, we can stick out our chests and watch these plays like normal, too, can't we? I'm going to do my best~ My motivation has sprung forth! ♪ Hajime, you take the exam with me too, okay!?"
+    "text": "If we can pass the exam for this school, we can stick out our chests and watch these plays like normal, too, can't we? I'm going to do my best~ My motivation has sprung forth! ♪ Hajime, you take the exam with me too, okay?!"
   },
   {
     "character": "Wataru Hibiki",
@@ -1412,7 +1557,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "D-Don't come over here! Don't come near meeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~!?"
+    "text": "D-Don't come over here! Don't come near meeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~?!"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1482,7 +1627,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: White Rabbit (1)",
-    "text": "Nito-senpai is our last hope...! I'm beyond uneasy because that Masked Pervert's the one who introduced her to me, but we're in a situation where all we can do is grasp at whatever we have, so, see!?"
+    "text": "Nito-senpai is our last hope...! I'm beyond uneasy because that Masked Pervert's the one who introduced her to me, but we're in a situation where all we can do is grasp at whatever we have, so, see?!"
   },
   {
     "character": "Wataru Hibiki",
