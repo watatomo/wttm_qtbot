@@ -56,6 +56,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Spring (Next year)
 
+- [[Idol Story] Tomoya Mashiro: Birthday Celebration (2018 - Wataru Hibiki)](https://twitter.com/riamuyumemi/status/1376187326309670920) `☆`
 - [Lost Legend](https://ensemble-stars.fandom.com/wiki/Lost_Legend_(Story))
 
 ### Other
@@ -77,13 +78,14 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
 - [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal_Presentation) `☆`
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!)
-- [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) *(Translation in progress)* `☆`
+- [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
 
 ### Winter
 - 2020 Christmas Campaign `☆`
 - [[Mini Talk] Natsume Sakasaki: Birthday Celebration (2021)](https://bellatranslates.dreamwidth.org/24791.html)
 - [[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)](https://twitter.com/iridesenescence/status/1363200151783837700)
+- [[Mini Talk] Tomoya Mashiro: Birthday Celebration (2021)](https://twitter.com/nazunyan427/status/1376187951223250946)
 
 ### Other
 
