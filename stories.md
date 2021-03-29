@@ -50,8 +50,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Phantom Thieves VS Detectives](https://ensemble-stars.fandom.com/wiki/Phantom_Thieves_VS_Detectives) `☆`
   - [Alternative translation](https://minashirosoushi.tumblr.com/tagged/enstars-tl)
 - [Transparency and Masks](https://ensemble-stars.fandom.com/wiki/Transparency_and_Masks) *(Partial, needs re-translating)* `☆`
-- [[Idol Story] Wataru Hibiki: Birthday Celebration (2018 - Tomoya Mashiro)](https://twitter.com/riamuyumemi/status/1363141364880318466) `☆`
 - [Dream Travel](https://ensemble-stars.fandom.com/wiki/Dream_Travel)
+- [[Idol Story] Wataru Hibiki: Birthday Celebration (2018 - Tomoya Mashiro)](https://twitter.com/riamuyumemi/status/1363141364880318466) `☆`
 - [Human Comedy](https://ensemble-stars.fandom.com/wiki/Human_Comedy) `☆`
 
 ### Spring (Next year)
@@ -85,6 +85,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - 2020 Christmas Campaign `☆`
 - [[Mini Talk] Natsume Sakasaki: Birthday Celebration (2021)](https://bellatranslates.dreamwidth.org/24791.html)
 - [[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)](https://twitter.com/iridesenescence/status/1363200151783837700)
+
+### Spring (Next year)
 - [[Mini Talk] Tomoya Mashiro: Birthday Celebration (2021)](https://twitter.com/nazunyan427/status/1376187951223250946)
 
 ### Other
