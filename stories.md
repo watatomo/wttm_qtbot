@@ -24,7 +24,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
   - [[Mini Talk] Tomoya Mashiro: A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
-  - [Mini Talk] Tomoya Mashiro: Cinderellaesque *(Partial, needs translating)* `☆`
+  - [[Mini Talk] Tomoya Mashiro: Cinderellaesque](https://watatomo.github.io/tl/post/the_spectacular_cinderella_show/mini_talk/tomoya/2/) `☆`
 - [School Festival 4](https://ensemble-stars.fandom.com/wiki/School_Festival_4)
 
 ### Summer
