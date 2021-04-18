@@ -78,6 +78,8 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
 - [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal_Presentation) `☆`
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!)
+- [RELOADED](https://ensemble-stars.fandom.com/wiki/RELOADED) `☆` *(Partial, translation in progress)*
+  - [Alternative reader view](https://watatomo.github.io/tl/post/reloaded/)
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
 
