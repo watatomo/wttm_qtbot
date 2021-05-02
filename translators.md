@@ -16,6 +16,7 @@ Translators with quotes in the bot are listed here. Thank you for all your hard 
 - [Keru](https://joyfulbox.dreamwidth.org/)
 - [Linnæus](https://ensemble-stars.fandom.com/wiki/User:Linnæus)
 - [Looks after rainbows](https://twitter.com/doublerainbow82)
+- [Mika_Enstars](https://twitter.com/mika_enstars)
 - [Mint](https://twitter.com/3adisastergays)
 - [Nanairo](https://twitter.com/yuki_rurikawa)
 - [narukaru](https://narukaru.dreamwidth.org/)

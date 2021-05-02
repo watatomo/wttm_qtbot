@@ -34,6 +34,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
 - [Milky Way](https://ensemble-stars.fandom.com/wiki/Milky_Way)
 - [Orihime and Hikoboshi](https://ensemble-stars.fandom.com/wiki/Orihime_and_Hikoboshi)
+- Youkai Shichihenge
 - [Passionate Carmen](https://ensemble-stars.fandom.com/wiki/Passionate_Carmen)
 
 ### Fall
@@ -78,7 +79,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
 - [[Idol Story] Wataru Hibiki: Animal Presentation](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/Animal_Presentation) `☆`
 - [High Five!](https://ensemble-stars.fandom.com/wiki/High_Five!)
-- [RELOADED](https://ensemble-stars.fandom.com/wiki/RELOADED) `☆` *(Partial, translation in progress)*
+- [RELOADED](https://ensemble-stars.fandom.com/wiki/RELOADED) `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/reloaded/)
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
