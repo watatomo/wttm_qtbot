@@ -265,6 +265,16 @@
     "text": "Oh? It almost appeared as if he were running away from me."
   },
   {
+    "character": "Hajime Shino",
+    "story": "[Main Story (!!)] Troublemakers: 42 - Rabbit",
+    "text": "Huh? But Tomoya-kun, you're the one who decided that a production put on by Hibiki-senpai's theatrical troupe took priority over Trickstar, aren't you?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Main Story (!!)] Troublemakers: 42 - Rabbit",
+    "text": "And I've been looking forward to the troupe's production for a while—I fought tooth and nail for that seat! I couldn't stop thinking, if I miss this, I'll regret it for the rest of my days."
+  },
+  {
     "character": "Natsume Sakasaki",
     "story": "[Mini Talk] Natsume Sakasaki: Birthday Celebration (2021)",
     "text": "Wataru-nii-san couldn't be here because of WORK, so he had Tomoya-kun take over for HIM..."
@@ -367,11 +377,6 @@
   {
     "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "Believe in...myself? That's surprising for you to say... Since you're nothing even like what a club president should be. But I guess what you said resonates with me. Just a little bit."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
     "text": "Alright, sur— Wait, why are you acting all excited before I finished my sentence?! Well, you are the club president after all. So of course you can act Cinderella better than me. I'm still learning, y'know."
   },
   {
@@ -403,6 +408,26 @@
     "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
     "text": "...Thank you, President. It feels weird to express my thanks to you so openly but... I'm doing my best, so keep your eyes on me, okay?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
+    "text": "Believe in...myself? That's surprising for you to say... Since you're nothing even like what a club president should be. But I guess what you said resonates with me. Just a little bit."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Dream School",
+    "text": "The person we bumped into earlier was really pretty, huh~♪ But the guy who played the princess was more \"captivating,\" though."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Dream School",
+    "text": "Yeah, I couldn't keep my eyes off him too. I didn't know there was such a big difference between middle and high schoolers. It's surprising to see that he looks more mature than the girls in our class."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Dream School",
+    "text": "\"His skin looked so smooth\"... You were watching him more closely huh, Hajime? All I got from it was how pretty his hair looked~♪ I bet it would be really silky if we got to touch it♪"
   },
   {
     "character": "Wataru Hibiki",
@@ -848,6 +873,11 @@
     "character": "Hajime Shino",
     "story": "High Five!: Hop Step (1)",
     "text": "It seems like Hibiki-senpai isn't able to pay as much attention to Tomoya-kun as he used to. Perhaps he does have a lot of pent-up stress, and no outlet for it? I get it. I miss having Akehoshi-senpai around to pat me on the head or give me a tight squeeze every now and then—"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "home screen line",
+    "text": "It's so warm that I can't focus... If only Hibiki-senpai were here to do a magic trick... That'll wake me up."
   },
   {
     "character": "Shu Itsuki",
@@ -1551,6 +1581,26 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "RELOADED: Epilogue",
+    "text": "Yeah... For some reason, Hibiki-senpai had it. The key, I mean. I'm telling you—that guy definitely stole the key and sneakily hid it away somewhere, then stood back to watch and laugh at our distress."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "RELOADED: Epilogue",
+    "text": "But in the end, the two of us just danced along to the beat of Hibiki-senpai's script from start to finish. Doesn't that irritate you? All because I asked him to teach me some magic tricks... Which means he also taught me how to use him as a decoy and escape using misdirection."
+  },
+  {
+    "character": "Izumi Sena",
+    "story": "RELOADED: Epilogue",
+    "text": "So in this case, you used Hibiki in your misdirection, so you could successfully pull off the escape stunt?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "RELOADED: Epilogue",
+    "text": "Instead, he went through all this trouble to make sure I was backed right up against the wall, so I had no choice but to go all out. He had me wrack my brains and waited for me to come up with this escape plan all by myself, while he stood back with a stupid grin on his face!"
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "RELOADED: Idol of the Dead (3)",
     "text": "Well, um. It seems as though Hibiki-senpai's introduced me on some TV show as his \"number one apprentice.\" But the TV show in question actually turned out to be one that features magic. So now there's this big misunderstanding that I can do magic tricks just as well as him."
   },
@@ -1570,24 +1620,54 @@
     "text": "For the record, I did suck it up and beg Hibiki-senpai to give me some guidance. And I'm using whatever free time I have to practice as hard as I can, like I'm doing right now. But I just don't seem to be improving."
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ End of the Marionette's Strings: [Mini Talk] Tomoya Mashiro: Dream School (1)",
-    "text": "The person we bumped into earlier was really pretty, huh~♪ But the guy who played the princess was more \"captivating,\" though."
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "Correct. I just happened to receive a humble request from Tomoya-kun as to whether I could use my mimicry abilities to impersonate them. With that, I was able to buy them as much time as possible."
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ End of the Marionette's Strings: [Mini Talk] Tomoya Mashiro: Dream School (1)",
-    "text": "Yeah, I couldn't keep my eyes off him too. I didn't know there was such a big difference between middle and high schoolers. It's surprising to see that he looks more mature than the girls in our class."
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "Because he asked me to. As if I could ever say no to those adorable puppy-dog eyes he begged me with~♪"
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ End of the Marionette's Strings: [Mini Talk] Tomoya Mashiro: Dream School (1)",
-    "text": "\"His skin looked so smooth\"... You were watching him more closely huh, Hajime? All I got from it was how pretty his hair looked~♪ I bet it would be really silky if we got to touch it♪"
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "Besides, it's quite rare for Tomoya-kun to ask me for help, so I was over the moon...♪"
+  },
+  {
+    "character": "Nazuna Nito",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "But if Tomo-chin was the one who asked Wataru-chin for the favor, does that mean he doesn't want to get caught either...?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "It's wonderful to hear that you're taking such excellent care of Tomoya-kun, who I entrusted you with."
+  },
+  {
+    "character": "Nazuna Nito",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "What are you talking about? More importantly, you seem to be on Tomo-chin's side, since you accepted his request—so where are they now?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "After all, Tomoya-kun does well when it counts. Or rather, he can do anything he sets his mind to. He remained calm through this bizarre situation, came up with the best plan he could think of, and pulled off the most magnificent \"escape stunt.\""
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "Amazing! Pressure makes diamonds, after all!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "RELOADED: Idol of the Dead (9)",
+    "text": "Being mean to him and having my dove hide the key was worth it♪"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (1)",
-    "text": "That was amazing, wasn't it, Hajime! I told you, right? That it was worth a look! See, I wanted you to see this with me~♪"
+    "text": "That was amazing, wasn't it, Hajime! I told you, right? That it was worth a look! I wanted you to see this with me~♪"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1928,6 +2008,11 @@
     "character": "Tomoya Mashiro",
     "story": "Transparency and Masks: G in a maze (8)",
     "text": "(I'm dead serious, you know. So don't brush it off like it's another joke.)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Youkai Shichihenge",
+    "text": "Even when the Masked Pervert weakens my spirit with his unreasonable demands, just remembering the taste keeps me going...!"
   },
   {
     "character": "Wataru Hibiki",
