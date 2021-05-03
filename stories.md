@@ -96,6 +96,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 - Profiles `☆`
 - Home Screen Interactions `☆`
+- Home Screen Lines `☆`
 - Office Communications `☆`
 
 ---
