@@ -21,6 +21,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Wataru Hibiki: Resounding Love](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Resounding_Love)
 - [Toy Box](https://ensemble-stars.fandom.com/wiki/Toy_Box)
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
+  - [[Mini Talk] Tomoya Mashiro: The Role of Romeo Is...?](https://twitter.com/riamuyumemi/status/1392840815416803330) `☆`
 - [Ballet](https://ensemble-stars.fandom.com/wiki/Ballet)
 - [The Spectacular Cinderella Show](https://ensemble-stars.fandom.com/wiki/Keep_in_Character!_The_Spectacular_Cinderella_Show)
   - [[Mini Talk] Tomoya Mashiro: A Club Member's Misery](https://twitter.com/yuki_rurikawa/status/883732152176656384)
@@ -63,6 +64,9 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 ### Other
 
 - [[Mini Talk] Tomoya Mashiro](https://ensemble-stars.fandom.com/wiki/Mini_Events/Tomoya_Mashiro)
+- Card Quotes
+  - [[Genius and Ordinary] Tomoya Mashiro](https://ensemble-stars.fandom.com/wiki/(Genius_and_Ordinary)_Tomoya_Mashiro)
+  - [[Underneath the Mask] Wataru Hibiki](https://ensemble-stars.fandom.com/wiki/(Underneath_the_Mask)_Wataru_Hibiki) `☆`
 
 ---
 
@@ -83,6 +87,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
   - [Alternative reader view](https://watatomo.github.io/tl/post/reloaded/)
 - [Dead End Land](https://ensemble-stars.fandom.com/wiki/Dead_End_Land) `☆`
   - [Alternative reader view](https://watatomo.github.io/tl/post/dead_end_land/)
+- [Bogie Time](https://ensemble-stars.fandom.com/wiki/Bogie_Time)
 
 ### Winter
 - 2020 Christmas Campaign `☆`
