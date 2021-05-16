@@ -9,7 +9,7 @@
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
-Tweets every *45 minutes*, can be changed later on. The bot runs *locally from its owner's PC* as he doesn't have any money to buy his own server (yet). There may be some mishaps every once in a while, but he'll try his best to fix them as soon as possible.
+Tweets every *45 minutes,* can be changed later on. The bot runs *locally from its owner's PC* as he doesn't have any money to buy his own server (yet). There may be some mishaps every once in a while, but he'll try his best to fix them as soon as possible.
 
 This bot is still in the works. Suggestions are always appreciated.
 
@@ -39,7 +39,7 @@ For the sake of consistency, the bot follows a style guide. More details on my s
 
 ### Disclaimer
 
-Quotes are posted randomly and can be from any part of the school year, meaning some might sound a bit strange. However, both characters reconcile later on in *Phantom Thieves VS Detectives*. [@wttm_qtbot](https://twitter.com/wttm_qtbot) is made to showcase the various developments Tomoya and Wataru's relationship had throughout the timeline. That includes all the up and downs that occurred, as no relationship is "perfect." The bond they share is vital for both of their character arcs, and it will continue to grow in the *!!* era.
+Quotes are posted randomly and can be from any part of the school year, meaning some might sound a bit strange. However, both characters reconcile later on in *Phantom Thieves VS Detectives.* [@wttm_qtbot](https://twitter.com/wttm_qtbot) is made to showcase the various developments Tomoya and Wataru's relationship had throughout the timeline. That includes all the up and downs that occurred, as no relationship is "perfect." The bond they share is vital for both of their character arcs, and it will continue to grow in the *!!* era.
 
 ---
 

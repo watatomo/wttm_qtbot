@@ -78,6 +78,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Summer
 
+- [[Main Story] Troublemakers](https://ensemble-stars.fandom.com/wiki/Troublemakers)
 - [[Idol Story] Hajime Shino (2)](https://ensemble-stars.fandom.com/wiki/Hajime_Shino/Idol_Story/Part_2)
 - [[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You](https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/) `☆`
 - [[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Idol_Story/That_Which_is_Reflected_in_Your_Eyes_1)
@@ -103,14 +104,3 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - Home Screen Interactions `☆`
 - Home Screen Lines `☆`
 - Office Communications `☆`
-
----
-
-## Planned
-
-- [[Idol Story] Tomoya Mashiro: Cinderella on the Stake's Stage](https://nebulancer.dreamwidth.org/13916.html) *(Needs re-translating)*
-- [Dream-Colored Princes](https://ensemble-stars.fandom.com/wiki/Dream-Colored_Princes) *(Needs translating)*
-- [Magnolia](https://ensemble-stars.fandom.com/wiki/Magnolia)
-- ! Home Screen Interactions
-
-And more unlisted...
