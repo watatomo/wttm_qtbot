@@ -1,6 +1,11 @@
 [
   {
     "character": "Tomoya Mashiro",
+    "story": "[Genius and Ordinary] Tomoya Mashiro",
+    "text": "I'll catch you in a lie one day!"
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "[Idol Story] Hajime Shino (2 - !!)",
     "text": "But I'm still nothing compared to that Masked Perv—to Hibiki-senpai."
   },
@@ -281,6 +286,16 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] The Role of Romeo Is...?",
+    "text": "Oops! S-Sorry! I was in such a daze, I didn't even notice you were there! My face is really red? Nah, I'm not sick—I'm fine!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] The Role of Romeo Is...?",
+    "text": "My face is actually red due to drama club practice— Huh?! If you ask me what we practiced, I'll get even more red!"
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro",
     "text": "Yeah...! If I get tall enough to overtake the Masked Pervert, I could become a cool prince like Hokuto-senpai!"
   },
@@ -445,6 +460,11 @@
     "text": "Oh, are you referring to the game of charades we played earlier? That was certainly a spectacle, wouldn't you agree? With Tomoya-kun naturally assuming the position of emcee, and Subaru-kun voicing objections to Hokuto-kun's gestures."
   },
   {
+    "character": "Wataru Hibiki",
+    "story": "[Underneath the Mask] Wataru Hibiki",
+    "text": "I'll be waiting for you in a faraway place."
+  },
+  {
     "character": "Tomoya Mashiro",
     "story": "2017 Christmas Campaign",
     "text": "Ugh, a creepy mask... This is definitely the Masked Pervert's, isn't it? Even though it's Christmas, he still wanted something like this... He's completely beyond understanding."
@@ -518,6 +538,11 @@
     "character": "Nazuna Nito",
     "story": "Ballet: Principal (7)",
     "text": "Wataru-chin says he likes you, and just wants to mess with you a little..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Bogie Time: 5",
+    "text": "Wait, why'd you call out to me just now? Is exclaiming \"Tomoya-kun\" with a big smile on your face your equivalent of Hibiki-senpai yelling \"Amazing!\" whenever he's excited?"
   },
   {
     "character": "Tomoya Mashiro",
