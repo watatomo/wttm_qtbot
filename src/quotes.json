@@ -91,6 +91,11 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "[Idol Story] Tomoya Mashiro: Sharing the Fun",
+    "text": "I'd be perfectly happy to spend the entire day with Hokuto-senpai from the moment I get to school, but having to face that Masked Pervert first thing in the morning sounds...absolutely exhausting."
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (1)",
     "text": "Woah?! A dove just came out of that sleeve... And it's talking!"
   },
@@ -286,16 +291,6 @@
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] The Role of Romeo Is...?",
-    "text": "Oops! S-Sorry! I was in such a daze, I didn't even notice you were there! My face is really red? Nah, I'm not sick—I'm fine!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] The Role of Romeo Is...?",
-    "text": "My face is actually red due to drama club practice— Huh?! If you ask me what we practiced, I'll get even more red!"
-  },
-  {
-    "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro",
     "text": "Yeah...! If I get tall enough to overtake the Masked Pervert, I could become a cool prince like Hokuto-senpai!"
   },
@@ -445,6 +440,16 @@
     "text": "\"His skin looked so smooth\"... You were watching him more closely huh, Hajime? All I got from it was how pretty his hair looked~♪ I bet it would be really silky if we got to touch it♪"
   },
   {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Role of Romeo Is...?",
+    "text": "Oops! S-Sorry! I was in such a daze, I didn't even notice you were there! My face is really red? Nah, I'm not sick—I'm fine!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: Role of Romeo Is...?",
+    "text": "My face is actually red due to drama club practice— Huh?! If you ask me what we practiced, I'll get even more red!"
+  },
+  {
     "character": "Wataru Hibiki",
     "story": "[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)",
     "text": "Oh yes! I received a present from Tomoya-kun! Aren't you curious as to what it could be? Behold! A hairband for use when washing one's face! Simple, but it serves its purpose well, doesn't it~♪"
@@ -476,7 +481,7 @@
   },
   {
     "character": "Nazuna Nito",
-    "story": "a home screen interaction (!!)",
+    "story": "Home screen interaction (!!)",
     "text": "\"A job that's out of the ordinary\"... Why don't you star in a variety show with someone as unique as Wataru-chin?"
   },
   {
@@ -516,17 +521,17 @@
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "an office communication",
+    "story": "Office communication",
     "text": "Hibiki-senpai is...really cool, huh."
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "an office communication",
+    "story": "Office communication",
     "text": "...Hm. I guess I should go say hi to him."
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "an office communication",
+    "story": "Office communication",
     "text": "I thought you were one of Hibiki-senpai's pigeons..."
   },
   {
@@ -901,13 +906,18 @@
   },
   {
     "character": "Tomoya Mashiro",
-    "story": "home screen line",
+    "story": "Home screen line (!!)",
     "text": "It's so warm that I can't focus... If only Hibiki-senpai were here to do a magic trick... That'll wake me up."
   },
   {
     "character": "Wataru Hibiki",
-    "story": "home screen line",
+    "story": "Home screen line (!!)",
     "text": "Tomoya-kun's reactions are considerably more \"mature\" compared to last spring's. It gives me a bittersweet feeling."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Home screen line (!!)",
+    "text": "It would be nice to have Tomoya-kun's ice cold gaze pierce right through me in this hot weather, but he hasn't been that cold to me as of late..."
   },
   {
     "character": "Shu Itsuki",
