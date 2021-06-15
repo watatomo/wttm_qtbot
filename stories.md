@@ -30,6 +30,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 ### Summer
 
+- [[Idol Story] Tomoya Mashiro: Sharing the Fun](https://ensemble-stars.fandom.com/wiki/Tomoya_Mashiro/Sub_Story/Sharing_the_Fun)
 - [[Idol Story] Wataru Hibiki: Reserved Joker](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Reversed_Joker)
 - [Amusement Live](https://ensemble-stars.fandom.com/wiki/Amusement_Live)
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
