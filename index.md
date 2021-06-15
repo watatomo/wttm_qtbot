@@ -15,7 +15,7 @@ This bot is still in the works. Suggestions are always appreciated.
 
 Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.com/riamuyumemi) or [open an issue](https://github.com/watatomo/wttm_qtbot/issues).
 
-[Interested in the pair? Here's a guide about them in the works!](https://docs.google.com/spreadsheets/d/18ylSdsvVpY8lNWUp9sW9XWG7DFcxFyQO8QfMf5267tc/edit?usp=sharing)
+[Interested in the pair? Here's a guide about them in the works!](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUjhEhk0zLDYW1W_VS9NdS5gUAExMFiEQDJtHwoSu0r6jkUsqtr200PBoQ6k_p7NnAyVCBWEXKsW0Z/pubhtml)
 
 ### To-do
 
