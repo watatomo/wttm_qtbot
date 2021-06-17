@@ -39,11 +39,6 @@ function shortenQuote(quote) {
  * @param {string} quote
 */
 function postQuote(quote) {
-  if (!config.post_to_twitter) {
-      console.log(quote);
-      console.log("Posting quote failed. ENV variable POST_TO_TWITTER has to be set to true.");
-      return;
-  }
 
   console.log("Posting quote to timeline...")
 
