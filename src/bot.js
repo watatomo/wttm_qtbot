@@ -22,6 +22,5 @@ function postQuote(quote) {
   }
 }
 
-module.exports.shortenQuote = shortenQuote;
 module.exports.quotes = quotes;
 module.exports.getRandomQuote = getRandomQuote;
