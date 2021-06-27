@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
 [![Quote Count](https://img.shields.io/badge/quote%20count-415-blue.svg)](https://watatomo.github.io/wttm_qtbot/#/stories)
 [![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
-[![Last Update](https://img.shields.io/badge/last%20update-5%2F15%2F2021-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
+[![Last Update](https://img.shields.io/badge/last%20update-6%2F15%2F2021-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
@@ -43,8 +43,6 @@ POST_TO_TWITTER=true
 ```
 
 ## Attributions
-
-This bot is basically a fork of [QuoteableSatoshi](https://github.com/dergigi/QuotableSatoshi).
 
 Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://watatomo.github.io/wttm_qtbot/#/stories). A complete list of translators can be found [here](https://watatomo.github.io/wttm_qtbot/#/translators).
 

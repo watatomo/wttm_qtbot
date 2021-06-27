@@ -1,6 +1,5 @@
 'use strict';
 
-var bot2 = require('./src/bot2');
+var bot = require('./src/bot');
 
-
-bot2.tweetRandom()
+bot.getRandomQuote()
