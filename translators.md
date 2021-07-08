@@ -26,6 +26,7 @@ Translators with quotes in the bot are listed here. Thank you for all your hard 
 - [Peace](https://twitter.com/yoroshikilled)
 - [Renna](https://enstars-translations.tumblr.com/)
 - [Ren](https://twitter.com/riamuyumemi)
+- [Ria](https://riatranslates.wordpress.com/)
 - [Riitranslates](https://enstars-translates.dreamwidth.org/)
 - [Rina](https://minashirosoushi.tumblr.com/)
 - [sesera](https://frecklegirl.dreamwidth.org/)

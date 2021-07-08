@@ -20,6 +20,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [[Idol Story] Hokuto Hidaka: Improv Theater](https://ensemble-stars.fandom.com/wiki/Hokuto_Hidaka/Sub_Story/Improv_Theater)
 - [[Idol Story] Wataru Hibiki: Resounding Love](https://ensemble-stars.fandom.com/wiki/Wataru_Hibiki/Sub_Story/Resounding_Love)
 - [Toy Box](https://ensemble-stars.fandom.com/wiki/Toy_Box)
+- [Card Battler](https://ensemble-stars.fandom.com/wiki/Card_Battler)
 - Dream-Colored Princes
   - [[Mini Talk] Wataru Hibiki: The Prince of Dreams](https://ensemble-stars.fandom.com/wiki/Yume100_x_Ensemble_Stars_Collaboration/Wataru_Hibiki_Normal_Event)
 - [Performance](https://ensemble-stars.fandom.com/wiki/Performance) *(Partial, needs translating)*
