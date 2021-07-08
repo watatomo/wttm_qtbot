@@ -466,6 +466,21 @@
   },
   {
     "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
+    "text": "Do call out to Tomoya-kun as well! This is a good chance for him to be the leading role, so take him with you even if it means you’ll need to drag him out...☆"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
+    "text": "Hehehe, you treasure your juniors, after all. Raising a young sprout with kindness and care is also love! In that case, I shall do the exact opposite and pour my love into some spartan training...☆"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
+    "text": "Oh my, this my form of love, you know? If you keep being easy on him then even a racehorse can turn into livestock. Using strict methods from time to time can serve to be good training."
+  },
+  {
+    "character": "Wataru Hibiki",
     "story": "[Underneath the Mask] Wataru Hibiki",
     "text": "I'll be waiting for you in a faraway place."
   },
@@ -478,11 +493,6 @@
     "character": "Tomoya Mashiro",
     "story": "2020 Christmas Campaign",
     "text": "When I woke up, there was a present for me with \"Amazing!\" written on the tag."
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Home screen interaction (!!)",
-    "text": "\"A job that's out of the ordinary\"... Why don't you star in a variety show with someone as unique as Wataru-chin?"
   },
   {
     "character": "Nazuna Nito",
@@ -520,21 +530,6 @@
     "text": "I wish you'd understand what I'm thinking without having to put it into words~ This is proof that you don't love me enough yet."
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Office communication",
-    "text": "Hibiki-senpai is...really cool, huh."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Office communication",
-    "text": "...Hm. I guess I should go say hi to him."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Office communication",
-    "text": "I thought you were one of Hibiki-senpai's pigeons..."
-  },
-  {
     "character": "Nazuna Nito",
     "story": "Ballet: Principal (2)",
     "text": "You say all that, but you actually really admire Wataru-chin, don't you? He's a little weird, but I'm sure you can become good friends with him~♪"
@@ -548,6 +543,11 @@
     "character": "Tomoya Mashiro",
     "story": "Bogie Time: 5",
     "text": "Wait, why'd you call out to me just now? Is exclaiming \"Tomoya-kun\" with a big smile on your face your equivalent of Hibiki-senpai yelling \"Amazing!\" whenever he's excited?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Card Battler: After-School Duel (1)",
+    "text": "If the Masked Pervert said \"I made a lunch box for you☆\" then I'd first think it was a time bomb, or at best a mystery box."
   },
   {
     "character": "Tomoya Mashiro",
@@ -905,6 +905,11 @@
     "text": "It seems like Hibiki-senpai isn't able to pay as much attention to Tomoya-kun as he used to. Perhaps he does have a lot of pent-up stress, and no outlet for it? I get it. I miss having Akehoshi-senpai around to pat me on the head or give me a tight squeeze every now and then—"
   },
   {
+    "character": "Nazuna Nito",
+    "story": "Home screen interaction (!!)",
+    "text": "\"A job that's out of the ordinary\"... Why don't you star in a variety show with someone as unique as Wataru-chin?"
+  },
+  {
     "character": "Tomoya Mashiro",
     "story": "Home screen line (!!)",
     "text": "It's so warm that I can't focus... If only Hibiki-senpai were here to do a magic trick... That'll wake me up."
@@ -1158,6 +1163,21 @@
     "character": "Tomoya Mashiro",
     "story": "Motives of Good Boys: Chapter 6",
     "text": "Still, it's hard, being the bad guy and all... Hmm, I'm a bit reluctant, but maybe we should ask the Masked Pervert for some advice. But y'know, I really don't want to ask him."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Office communication",
+    "text": "Hibiki-senpai is...really cool, huh."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Office communication",
+    "text": "...Hm. I guess I should go say hi to him."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Office communication",
+    "text": "I thought you were one of Hibiki-senpai's pigeons..."
   },
   {
     "character": "Wataru Hibiki",
