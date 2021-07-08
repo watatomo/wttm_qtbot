@@ -46,8 +46,6 @@ Quotes are posted randomly and can be from any part of the school year, meaning 
 
 ## Attributions
 
-This bot is basically a fork of [QuoteableSatoshi](https://github.com/dergigi/QuotableSatoshi).
-
 Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](stories.md). A complete list of translators can be found [here](translators.md).
 
 <img style="max-width:100%;max-height:auto" src="img/shitpost.png">
