@@ -5,22 +5,15 @@
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
 [![Quote Count](https://img.shields.io/badge/quote%20count-419-blue.svg)](https://watatomo.github.io/wttm_qtbot/#/stories)
 [![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
-[![Last Update](https://img.shields.io/badge/last%20update-6%2F15%2F2021-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
+[![Last Update](https://img.shields.io/badge/last%20update-7%2F12%2F2021-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
-[Interested in the pair? Here's a guide about them in the works!](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUjhEhk0zLDYW1W_VS9NdS5gUAExMFiEQDJtHwoSu0r6jkUsqtr200PBoQ6k_p7NnAyVCBWEXKsW0Z/pubhtml)
+[Interested in the pair? Here's a guide about them in the works!]https://rebrand.ly/wttm_guide)
 
 ## Features
 
 Tweets every *45 minutes,* can be changed later on. The bot runs *locally from its owner's PC.*
-
-### To-do
-
-- [ ] Reply with quote source if asked for it
-- [x] Translator page
-- [ ] Page of quotes owner translated
-- [ ] Fix duplicate tweets problem
 
 ## Quick Start
 
