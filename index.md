@@ -9,9 +9,9 @@
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
-Tweets every *45 minutes,* can be changed later on. The bot runs *locally from its owner's PC* as he doesn't have any money to buy his own server (yet). There may be some mishaps every once in a while, but he'll try his best to fix them as soon as possible.
+Tweets every *45 minutes,* can be changed later on. The bot is hosted on [DigitalOcean](https://www.digitalocean.com/).
 
-This bot is still in the works. Suggestions are always appreciated.
+This bot is still in the works. Suggestions and pull requests are always appreciated.
 
 Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.com/riamuyumemi) or [open an issue](https://github.com/watatomo/wttm_qtbot/issues).
 
@@ -19,7 +19,7 @@ Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.c
 
 ### To-do
 
-- [ ] Recode whole bot and transfer to a server
+- [x] Recode whole bot and transfer to a server
 - [ ] Reply with quote source if asked for it
 - [x] Translator page
 - [ ] Page of quotes owner translated
