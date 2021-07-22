@@ -6,6 +6,7 @@ Translators with quotes in the bot are listed here. Thank you for all your hard 
 - [Bakemonoremy](https://twitter.com/bakemonoremy)
 - [Bella](https://twitter.com/vespertinerose)
 - [Bonni](https://twitter.com/hiiroaira)
+- [Ciel](https://twitter.com/bluefilaments)
 - [euni2319](https://euni2319.wordpress.com/)
 - [haranami](https://twitter.com/haranami_)
 - [healingbonds](https://healingbonds.dreamwidth.org/)

@@ -108,3 +108,4 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - Home Screen Interactions `☆`
 - Home Screen Lines `☆`
 - Office Communications `☆`
+- [Ensemble with Senpai](https://fortunebanquet.tumblr.com/post/656822562928640000/ensemble-with-senpaiwataru-tomoya)
