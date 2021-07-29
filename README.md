@@ -23,7 +23,7 @@ $ git clone --single-branch -b master https://github.com/watatomo/wttm_qtbot.git
 $ npm install
 ```
 
-Edit `package.json` to have the bot's information. Fill out `example.env` and rename it to `.env`
+Edit `package.json` to have the bot's information. Fill out `example.env` and rename it to `.env` (or make a new file and name it that).
 
 ```env
 CONSUMER_KEY=
@@ -32,6 +32,10 @@ ACCESS_TOKEN=
 ACCESS_TOKEN_SECRET=
 POST_TO_TWITTER=true
 ```
+
+## Updating
+
+Use `git fetch` to update. If on a server, run the bot using `pm2 start index.js` (don't forget to `cd` into the bot's directory).
 
 ## Attributions
 
