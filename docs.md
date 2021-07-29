@@ -54,6 +54,12 @@ setInterval(bot.postRandomQuote, 1000*60*45)
 
 Run the bot using `yarn start`. To post a test tweet, use `yarn test`.
 
+If on a server, run the bot using `pm2 start index.js` (don't forget to `cd` into the bot's directory).
+
+## Updating
+
+Use `git fetch` to update.
+
 ---
 
 
