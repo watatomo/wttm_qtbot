@@ -39,7 +39,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - [Tanabata Festival](https://ensemble-stars.fandom.com/wiki/Tanabata_Festival)
 - [Milky Way](https://ensemble-stars.fandom.com/wiki/Milky_Way)
 - [Orihime and Hikoboshi](https://ensemble-stars.fandom.com/wiki/Orihime_and_Hikoboshi)
-- Youkai Shichihenge
+- [The Seven Faces of the Shapeshifting Youkai](https://ensemble-stars.fandom.com/wiki/The_Seven_Faces_of_the_Shapeshifting_Youkai)
 - [Passionate Carmen](https://ensemble-stars.fandom.com/wiki/Passionate_Carmen)
 
 ### Fall
@@ -64,6 +64,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 
 - [[Idol Story] Tomoya Mashiro: Birthday Celebration (2018 - Wataru Hibiki)](https://twitter.com/riamuyumemi/status/1376187326309670920) `☆`
 - [Lost Legend](https://ensemble-stars.fandom.com/wiki/Lost_Legend_(Story))
+- [Ep:Link](https://ensemble-stars.fandom.com/wiki/EP:Link)
 
 ### Other
 
