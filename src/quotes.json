@@ -1,11 +1,6 @@
 [
   {
     "character": "Tomoya Mashiro",
-    "story": "[Genius and Ordinary] Tomoya Mashiro",
-    "text": "I'll catch you in a lie one day!"
-  },
-  {
-    "character": "Tomoya Mashiro",
     "story": "[Idol Story] Hajime Shino (2 - !!)",
     "text": "But I'm still nothing compared to that Masked Perv—to Hibiki-senpai."
   },
@@ -480,11 +475,6 @@
     "text": "Oh my, this my form of love, you know? If you keep being easy on him then even a racehorse can turn into livestock. Using strict methods from time to time can serve to be good training."
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Underneath the Mask] Wataru Hibiki",
-    "text": "I'll be waiting for you in a faraway place."
-  },
-  {
     "character": "Tomoya Mashiro",
     "story": "2017 Christmas Campaign",
     "text": "Ugh, a creepy mask... This is definitely the Masked Pervert's, isn't it? Even though it's Christmas, he still wanted something like this... He's completely beyond understanding."
@@ -548,6 +538,16 @@
     "character": "Tomoya Mashiro",
     "story": "Card Battler: After-School Duel (1)",
     "text": "If the Masked Pervert said \"I made a lunch box for you☆\" then I'd first think it was a time bomb, or at best a mystery box."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Card: [Genius and Ordinary] Tomoya Mashiro",
+    "text": "I'll catch you in a lie one day!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Card: [Underneath the Mask] Wataru Hibiki",
+    "text": "I'll be waiting for you in a faraway place."
   },
   {
     "character": "Tomoya Mashiro",
@@ -893,6 +893,26 @@
     "character": "Tomoya Mashiro",
     "story": "Ensemble with Senpai: Wataru & Tomoya",
     "text": "Of course! Both of us want to reach out and grab onto him, since he's our senpai. So let’s hit him with our full strength— Hope you're ready...!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Ep:Link: Deathmatch (3)",
+    "text": "However, generally, masks are often judged to be things that conceal everything about their wearer—they're seen as fakeries of our true selves. Tomoya-kun and such often tell me that they cannot understand who I really am, and things like that."
+  },
+  {
+    "character": "Hokuto Hidaka",
+    "story": "Ep:Link: Deathmatch (3)",
+    "text": "I understand why Tomoya would want to say such things, but your true self is probably the mask itself; the mask is your skin."
+  },
+  {
+    "character": "Hokuto Hidaka",
+    "story": "Ep:Link: Deathmatch (3)",
+    "text": "Even if Tomoya ripped off that thin skin, he would probably only find flesh just like everyone else's underneath. Actually, he might find something that exhibits even less of your personality."
+  },
+  {
+    "character": "Hokuto Hidaka",
+    "story": "Ep:Link: Dreamer (4)",
+    "text": "Is that so. Tomoya and I are always using all of our energy and all kinds of other things just desperately trying to keep up with you, though."
   },
   {
     "character": "Nazuna Nito",
@@ -1936,6 +1956,11 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "The Seven Faces of the Shapeshifting Youkai",
+    "text": "Even when the Masked Pervert weakens my spirit with his unreasonable demands, just remembering the taste keeps me going...!"
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "The Spectacular Cinderella Show: Chapter 10",
     "text": "(Just you watch, Masked Pervert! I'll show you that I can stay in character too~!)"
   },
@@ -2073,11 +2098,6 @@
     "character": "Tomoya Mashiro",
     "story": "Transparency and Masks: G in a maze (8)",
     "text": "(I'm dead serious, you know. So don't brush it off like it's another joke.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Youkai Shichihenge",
-    "text": "Even when the Masked Pervert weakens my spirit with his unreasonable demands, just remembering the taste keeps me going...!"
   },
   {
     "character": "Wataru Hibiki",
