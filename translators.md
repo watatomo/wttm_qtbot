@@ -5,6 +5,7 @@ Translators with quotes in the bot are listed here. Thank you for all your hard 
 - [appositewhite](https://twitter.com/appositewhite)
 - [Bakemonoremy](https://twitter.com/bakemonoremy)
 - [Bella](https://twitter.com/vespertinerose)
+- [Bethygauw](https://bethygauw.tumblr.com/)
 - [Bonni](https://twitter.com/hiiroaira)
 - [Ciel](https://twitter.com/bluefilaments)
 - [euni2319](https://euni2319.wordpress.com/)

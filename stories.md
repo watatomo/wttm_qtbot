@@ -72,6 +72,7 @@ Quote submissions are welcome! DM the bot on [Twitter](https://twitter.com/messa
 - Card Quotes
   - [[Genius and Ordinary] Tomoya Mashiro](https://ensemble-stars.fandom.com/wiki/(Genius_and_Ordinary)_Tomoya_Mashiro)
   - [[Underneath the Mask] Wataru Hibiki](https://ensemble-stars.fandom.com/wiki/(Underneath_the_Mask)_Wataru_Hibiki) `☆`
+- [[Yumenosaki Academy's Club Journal] Drama Club: Lost Property](https://bethygauw.tumblr.com/post/146994521288/12-enstars-dengeki-girls-style-july-2016)
 
 ---
 

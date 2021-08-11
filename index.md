@@ -3,7 +3,7 @@
 <img align="right" style="max-width:50%;max-height:auto" src="https://user-images.githubusercontent.com/23179278/87398281-85c97880-c56a-11ea-9510-044666dafcf2.png">
 
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
-[![Quote Count](https://img.shields.io/badge/quote%20count-424-blue.svg)](stories.md)
+[![Quote Count](https://img.shields.io/badge/quote%20count-430-blue.svg)](stories.md)
 [![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
 [![Last Update](https://img.shields.io/badge/last%20update-7%2F29%2F2021-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
 
