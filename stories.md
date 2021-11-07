@@ -15,7 +15,7 @@ If you wish for your translations to be removed, please DM [the bot](https://twi
 - [Reminiscence ＊ Marionette](https://twitter.com/bluefilaments/status/1447620230637883396)
   - [Mini Talk] Tomoya Mashiro: Dream School `☆`
 - The Flag's Honor ＊ Flower Festival
-- [Idol Story] Tomoya Mashiro (1)]
+- [Idol Story] Tomoya Mashiro (1)
 - [Idol Story] Tomoya Mashiro (2)
 - [Idol Story] Hokuto Hidaka: Improv Theater
 - [Idol Story] Wataru Hibiki: Resounding Love
