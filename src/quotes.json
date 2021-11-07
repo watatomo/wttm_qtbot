@@ -17,7 +17,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "Please do not say disgraceful things of others! I am not contaminating you; rather, I am decorating you! To be decorated is an idol, and to shine is thus the Drama Club...☆"
+    "text": "Please do not say disgraceful things of others! I am not contaminating you; rather, I am decorating you! To be decorated is an idol, and to shine is thus the drama club...☆"
   },
   {
     "character": "Wataru Hibiki",
@@ -62,7 +62,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "[Idol Story] Tomoya Mashiro (1 - !)",
-    "text": "No, it doesn't have to do with the Drama Club, so don't worry. I've already gotten used to the president's eccentric ways, you could say."
+    "text": "No, it doesn't have to do with the drama club, so don't worry. I've already gotten used to the president's eccentric ways, you could say."
   },
   {
     "character": "Wataru Hibiki",
@@ -83,6 +83,66 @@
     "character": "Wataru Hibiki",
     "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
     "text": "There's more than just flowers waiting for you, so please accept them—every last one♪"
+  },
+  {
+    "character": "Hokuto Hidaka",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "It's about Tomoya. You've been sending your doves to monitor him, correct? They've been bothering him day and night."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "As an actor, you must always be aware that you're being watched... It's a game for him to understand the most basic of basics."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "Are you sure it's not him being paranoid? Tomoya-kun must really have some mental issues..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "P-P-P-Pre-Preeeez...!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "Tomoya-kun, Tomoya-kun. Is that my dove you have there? It looks absolutely exhausted... What happened?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "B-But what the hell am I supposed to do now? This is your bird, so do something about it...!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "Hehehe. It's wonderful that you can still be kind to the dove who has been chasing you around and causing you anxiety, Tomoya-kun."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "Since I'm always right here for you, isn't it quite like how you two are gradually coming to love me?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "No. To be honest, the more I stick around you, the more it feels like I don't know you at all. Kinda makes me wanna move far away from you."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "But in real life, one can still face persecution even if they were saved by a prince. People will get envious and say it's unfair—that it's favoritism... Please keep that in mind, Tomoya-kun."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "Animals love you, no? For that reason, someone who adores you could fall into misery by the weight of your fans' \"jealousy.\" Let this be a lesson to you, to avoid repeating the same tragedy."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Idol Story] Tomoya Mashiro: Cinderella Burning at the Stake's Stage",
+    "text": "Until you grow to become a prince that can rescue all the Cinderellas in the world."
   },
   {
     "character": "Tomoya Mashiro",
@@ -436,6 +496,51 @@
   },
   {
     "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "I finished patching up Hibiki-senpai's wounds, so now I need to think about what to do next..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "Um, that was my stomach rumbling... When you get hungry, your stomach contracts and makes that sound. ...Oh, did you forget that too?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "No problem. Helping out someone who's hurt is just the right thing to do. You would've done the same if you saw someone get hurt, so don't worry about it."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "You're hurt, so you should rest. ...Well, if you don't feel comfortable doing nothing, I'd be happy to have you help me a bit with cooking."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "I don't cook all that often, so I'm not really sure what to do with the vegetables I'm not as familiar with... Well, since we're only making soup, I think we can just get by with putting in whatever feels right."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "...Oh, right. I remember you saying that you liked jelly. Sorry to whoever lives here, but I'll be taking this in the hope that Hibiki-senpai's memory comes back."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "Okay, all that's left is to add some consommé in the soup. I was feeling kinda nervous, but we managed to make a surprisingly decent meal. Maybe it's because of the time we've spent staying at the dorms? Hibiki-senpai, can you bring the food to the table?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "Ah, could you also take two pairs of chopsticks with you? Oh, if you forgot how to use them...I can teach you."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Mini Talk] Tomoya Mashiro: I Gotta Do Something",
+    "text": "Oh, that's jelly. I was thinking we could have some after we eat... ...But jelly is better when it's cold, so I'll put it back in the fridge."
+  },
+  {
+    "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro: Role of Romeo Is...?",
     "text": "Oops! S-Sorry! I was in such a daze, I didn't even notice you were there! My face is really red? Nah, I'm not sick—I'm fine!"
   },
@@ -473,6 +578,91 @@
     "character": "Wataru Hibiki",
     "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
     "text": "Oh my, this my form of love, you know? If you keep being easy on him then even a racehorse can turn into livestock. Using strict methods from time to time can serve to be good training."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "Umm, Tomoya Mashiro...was it? Thank you for helping me earlier. If you may, could you also tell me who I am?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "Huh? Are you alright? Why are you so quiet? How should I handle this? I don't know what to do..."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "You can't hear me? Do you need me to repeat? Err... Who exactly am I?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "No, I'm not trying to— I apologize. It seems like I'm troubling you. I don't know what's what..."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "Phew, I'm okay. It only hurt a little bit, but my pain has gone away by now. Why are you making such a pained face? You're not the one who got hurt."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "Ah, thank you. I'll go take these now... Phew, I should be able to manage one way or another. I appreciate your kindness."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "I see, so it's a small sprain... If you wrap it tightly and fix it in place, it'll get better, huh. Hehe, you seem to know a lot about these types of things. I wonder if someone taught you how to do that."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "Um, sorry to ask again, but who am I? You seem to know who I am, but I do not... Is there anything that...connects us?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "Whoa, why did you shout all of a sudden?! Uh, you say it's a word I use a lot...? Hmm, I don't think I've heard it before, though."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "What is this \"theater\"? Is it when one becomes another person and captivates the audience...? I don't understand, but from the look of your face, it sounds like a lot of fun."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
+    "text": "\"Masks\"...? I would wear one at any chance I got last year? But wouldn't wearing a mask distort one's vision? Why did I like wearing one?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
+    "text": "A-Alright... I don't see the Masked Pervert around, so now's my chance. Let’s do this quietly..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
+    "text": "The Masked Pervert? T-This must be a trap! Nothing good ever comes out of him if you do what he says! I-It's terrifying...!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
+    "text": "Aah, I'm actually looking for something... I can't find it anywhere, and the only place left I can think of is the clubroom. To tell you the truth, I didn't want to come here, since didn't want to meet the Masked Pervert by chance..."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
+    "text": "I am a spirit that dwells in this clubroom! What Tomoya-kun is looking for is inside one of these boxes: the Golden Box, the Silver Box, and the Normal Box. Now please, pick one!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
+    "text": "Hoho, then I shall present this Normal Box to Tomoya-kun who gave out a normal answer!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
+    "text": "My, my... How could I have misread Tomoya-kun's wish? Well, in the end he betrayed my predictions, so I'll leave it at that...☆"
   },
   {
     "character": "Tomoya Mashiro",
@@ -557,7 +747,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Dead End Land: Dead End Street (2)",
-    "text": "Hehe, you're too naïve, Tomoya-kun! Since I'm an entertainer, I always have to look for ways to make an amazing entrance☆"
+    "text": "Hehe, you're too naive, Tomoya-kun! Since I'm an entertainer, I always have to look for ways to make an amazing entrance☆"
   },
   {
     "character": "Tomoya Mashiro",
@@ -896,22 +1086,22 @@
   },
   {
     "character": "Wataru Hibiki",
-    "story": "Ep:Link: Deathmatch (3)",
+    "story": "EP:Link: Deathmatch (3)",
     "text": "However, generally, masks are often judged to be things that conceal everything about their wearer—they're seen as fakeries of our true selves. Tomoya-kun and such often tell me that they cannot understand who I really am, and things like that."
   },
   {
     "character": "Hokuto Hidaka",
-    "story": "Ep:Link: Deathmatch (3)",
+    "story": "EP:Link: Deathmatch (3)",
     "text": "I understand why Tomoya would want to say such things, but your true self is probably the mask itself; the mask is your skin."
   },
   {
     "character": "Hokuto Hidaka",
-    "story": "Ep:Link: Deathmatch (3)",
+    "story": "EP:Link: Deathmatch (3)",
     "text": "Even if Tomoya ripped off that thin skin, he would probably only find flesh just like everyone else's underneath. Actually, he might find something that exhibits even less of your personality."
   },
   {
     "character": "Hokuto Hidaka",
-    "story": "Ep:Link: Dreamer (4)",
+    "story": "EP:Link: Dreamer (4)",
     "text": "Is that so. Tomoya and I are always using all of our energy and all kinds of other things just desperately trying to keep up with you, though."
   },
   {
@@ -1102,7 +1292,7 @@
   {
     "character": "Nazuna Nito",
     "story": "Lost Legend: Chapter 7",
-    "text": "Of course, I also have you to thank for teaching Tomo-chin. His training in the Drama Club has made him grow a lot too. So thanks, Wataru-chin♪"
+    "text": "Of course, I also have you to thank for teaching Tomo-chin. His training in the drama club has made him grow a lot too. So thanks, Wataru-chin♪"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1497,7 +1687,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "What the... Ah, wait, I've seen that before! That's Monty Pyth*n, isn't it? That parody of the King Arthur legend!"
+    "text": "What the... Ah, wait, I've seen that before! That's Monty Pythn, isn't it? That parody of the King Arthur legend!"
   },
   {
     "character": "Wataru Hibiki",
@@ -1507,7 +1697,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Have you seen that one, then? Bar*n! I really loved that one!"
+    "text": "Have you seen that one, then? Barn! I really loved that one!"
   },
   {
     "character": "Wataru Hibiki",
@@ -1532,7 +1722,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "However, you have a penchant for expressing yourself as \"normal\" in self-depreciation. When you turned in your application to join the Drama Club, you said you wanted to change your \"normal\" self with sparkling eyes."
+    "text": "However, you have a penchant for expressing yourself as \"normal\" in self-depreciation. When you turned in your application to join the drama club, you said you wanted to change your \"normal\" self with sparkling eyes."
   },
   {
     "character": "Wataru Hibiki",
@@ -1582,7 +1772,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "Yessir. I wanna participate in Drama Club activities after all, too. Right, I want to have a chat about that later."
+    "text": "Yessir. I wanna participate in drama club activities after all, too. Right, I want to have a chat about that later."
   },
   {
     "character": "Nazuna Nito",
@@ -1622,7 +1812,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "I shall always be an actor, after all! I want to show myself off more, to the entire world! I want to righteously monopolize all the love in this world...☆ Is it not the same for you, Tomoya-kun? Since you are also part of the Drama Club!"
+    "text": "I shall always be an actor, after all! I want to show myself off more, to the entire world! I want to righteously monopolize all the love in this world...☆ Is it not the same for you, Tomoya-kun? Since you are also part of the drama club!"
   },
   {
     "character": "Wataru Hibiki",
@@ -1752,102 +1942,112 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (1)",
-    "text": "That was amazing, wasn't it, Hajime! I told you, right? That it was worth a look! I wanted you to see this with me~♪"
+    "text": "That was amazing, Hajime! I told you it was worth it to come take a look! And I wanted you to come see it with me~♪"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "Ah! Sorry, I just ran into her... That's no good, isn't it~ I was so moved, my breath's been taken away. But, see, it was amazing, y'know, wasn't it! Especially...that person playing the lead role!"
+    "text": "Oh, sorry, I just—I bumped into someone... Ah man~ I got so emotional that I ended up walking around in a daze. But it was just so cool! Especially the person who played the main character!"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "You wouldn't think it was the same person, like, he's extraordinary! That was a guy, right...? He was in the role of a princess, but... Really, I was in a trance! He's my goddess~♪"
+    "text": "It's hard to think he's even human— That's just not normal! He was a guy, right? But he was playing a princess... God, I was completely mesmerized! He's my goddess~♪"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "If we can pass the exam for this school, we can stick out our chests and watch these plays like normal, too, can't we? I'm going to do my best~ My motivation has sprung forth! ♪ Hajime, you take the exam with me too, okay?!"
+    "text": "If we can get into this school, we'll be able to go see these plays with our heads held high. So I'll do whatever it takes~ I'm all fired up now♪ Let's take the exam together, okay, Hajime?"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "\"Why,\" you ask? Please think before you ask another! There are infinite possibilities, are there not? To act without thought is the same as to die! Think, become confused, and revel in the amazing...☆"
+    "text": "If you do not think for yourself, then you are as good as dead! So I request of you—think of amazing! Become disturbed, confused! And then, have your fill of it...☆"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "D-Don't come over here! Don't come near meeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~?!"
+    "text": "S-Stay where you are! Leave me aloooone! Y-You tricked me! I thought you were my goddess, but you're just—just some insane pervert~?!"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Uwaaah! You tricked me, huh?! And played around with my feelings! Don't you dare come any closer!"
+    "text": "Gghhh, you tricked me! You toyed with my feelings! Get away from meeeee?!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Ahh, your frightened face is adorable as well! That was the best reward, Tomoya-kun...☆"
+    "text": "Oh, you are so lovely when you're frightened! This is the best reward I could ask for, Tomoya-kun...☆"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "However, I do not like that statement of yours. I did not \"fool you,\" rather, I \"cast a spell on you\"! It's a magical showtime... Ahahahaha! ☆"
+    "text": "But I'm quite displeased with how you phrased that. Tricked you? I did no such thing! No, I put you under my spell! It's a magical showtime... Ahahahahaha☆"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "I-I don't understand what you're saying! Don't chase me, you damn madman!"
+    "text": "I-I have no idea what that means! You absolute pycho! Stop chasing meeee~?!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Acting without thinking again, aren't you? Listen to what people say properly! If one should refuse to understand the minds of others, he shall be doomed to find himself in the vast void of infallibility, a gulf of despair! What a tragedy that is!"
+    "text": "See? You've stopped thinking again! Please try listening when people talk to you! When you close yourself off from understanding others, you will only find inerrant darkness spread out before you! It is the precipice of despair— Oh, what tragedy!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Accept and understand one another! Tomoya-kun, let us appreciate each other, love each other...☆ Let us empathize with each other, melt into each other, and become one! Within that, there is love, truth, and amazing!"
+    "text": "So understand, and embrace that understanding! Let us accept one another—let us love...☆ Empathize with me, Tomoya-kun! We shall coalesce and mingle! That is the point where you find love, truth, amazing!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "You want to change, do you not? You want to free yourself from your mediocre existence, do you not? If so, begin by keeping your eyes on me!"
+    "text": "You want to transform yourself, yes? You want to shed yourself of your mediocrity? If what you claimed is true, then first, set your sights on me! That is why you came knocking on the door to the drama club, correct? Because you yearn for me!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Your admiration for me is the reason why you knocked on the Drama Club's door, no? Aah, I'm delighted that you would wish to become me! ♪"
+    "text": "Oh, I'm beside myself! To think that someone would want to follow in my footsteps♪"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Very well! From your guts to all your nerves, I shall drive this superhuman theory of love and surprise into you! Become me, Tomoya-kun! That's right, you are Wataru Hibiki...☆"
+    "text": "Alright then, I shall drive it into your mind, your every vein! That superhuman theory of love and wonder! Metamorphosize—become me, Tomoya-kun! That's right, you are Wataru Hibiki...☆"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "text": "No! I'm not! I'd never be a pervert with a stupid-ass name like that!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
+    "text": "Stop stop stooop! Don't take off my cloooothes! Don’t make me wear thaaaat! DON'T PUT THAT MASK ON MEEEE?!"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "However, that is what I desire of you, you know. It is...unusual for me to leave something up to another. I shall entrust to you a tool for that purpose. Here, Tomoya-kun, please do not flee...♪"
+    "text": "Nonetheless, that is my wish for you. It is rare to let someone else do something in my stead—and so I shall entrust you with the tools to do so. Come now, Tomoya-kun, don't run away from me...♪"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "Heheheh, I just dislocated my joints, though? Yes, come here~? I shall give to you, little rabbit, this Tomoya-kun! It seems that he's somewhat troubled and so... Please, do save him♪"
+    "text": "but all I did was dislocate my joints? Now come on over here~ Mister Rabbit, I leave Tomoya-kun in your care! Tomoya-kun seems to be quite troubled... So please, help him out♪"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "Right now, Tomoya-kun is a poor child with no apparent talents worth mentioning, but... As his name goes, he is a blank slate. I expect that infinite possibilities may be hiding within him."
+    "text": "As he is now, Tomoya-kun is a poor, pitiable child with no particular talent to speak of... But as his name would suggest, he is a blank slate. I am hopeful that he is hiding unlimited potential~"
   },
   {
     "character": "Wataru Hibiki",
     "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "Please train up this child. Making him a being equal to me... I won't go so far as to demand that, though, you know. At this rate, he will be crushed, never having understood anything. It would be piteous, would it not?"
+    "text": "And so I would like you to train this child. Of course, I'm not asking you to make him my equal. ...Wouldn't it be a shame for him to be crushed before he knew anything at all?"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Reminiscence ＊ Marionette: White Rabbit (1)",
-    "text": "Nito-senpai is our last hope...! I'm beyond uneasy because that Masked Pervert's the one who introduced her to me, but we're in a situation where all we can do is grasp at whatever we have, so, see?!"
+    "text": "Nito-senpai, this is the last thing we'll ever ask you! I'm kinda worried 'cause that Masked Pervert introduced us, but we really have no choice but to grasp at straws."
   },
   {
     "character": "Wataru Hibiki",
@@ -1903,6 +2103,331 @@
     "character": "Tomoya Mashiro",
     "story": "Rosicrucian Story: Trip Show (3)",
     "text": "The president also said something similar—that you don't \"turn into someone completely\" just by following their lines, or something like that. I have to assimilate the role even more from the depths of my soul, right?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "(...I can sense someone moving, too—from a faraway place. A place that is unseen and unreachable. And from that faraway place, I hear someone calling out to me.)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "(Is it okay? Is it really okay for me to reach out to you?)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "—Hey! Are you okay?! Pull yourself together! Or, uh, just wake the hell up already~!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Oh, thank god you're awake! I was so worried! You weren't even reacting to anything, even though your eyes were open!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I expected you to say you were pulling some kind of prank on me once you were fully awake, but you didn't! Are you trying to trick me? I'm actually surprised that you didn't do anything like that!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Oh, I know this one! You're pretending to have amnesia, huh? And then you forgot alllll about me? Well, enough of that!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "It genuinely hurts to be forgotten by you! Don't act like that! You're an entertainer, which means you're supposed to entertain people without hurting their feelings!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Why are you just staring at me like that?! Are you still not fully awake yet? Christ, every single thing you do pisses me off, as always...!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "But...I'm still so glad that you're awake... I can't find my phone anywhere, and there's some suspicious guys outside..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I couldn't call an ambulance or take you to a hospital. But you're still seriously injured! You were bleeding so much—I thought you gonna die!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Just look at yourself! You have cuts everywhere! I thought all of these scars were just makeup, but they seem real... Plus there's all that blood coming out—"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I did my best to patch everything up, but just let me know if anything hurts! Well, I can't really do everything you ask for but...!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "You? Helped...me?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Why do you sound so unsure of yourself?! Don't you always talk my damn ear off, or do you just not have the energy for that right now?!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "But in any case, I'm really glad that you're awake... I'm sure you have a lot of questions right now, but you should rest first."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Actually, it's probably better for you to take a shower and eat afterwards. All those wounds won't heal unless you get some nutrition in you, Senpai."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Hm? You're telling me you don't know either?! I kinda needed you to explain everything to me after you woke up!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I can't really figure it out on my own, y'know... I woke up in some shady alley and found you unconscious nearby."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I couldn't just leave you out there, so I put your arm around my shoulder and carried you..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I was panicking so badly. I knew I needed to get you to a hospital, but— We got attacked by some freaky monsters along the way."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Anyways, those things started chasing us, so I panicked and ran away. This apartment was close, so I just jumped right in. After that, I locked the door and did what I could to take care of you."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "But thanks to a certain someone, I'm used to dealing with crazy stuff like this, so I already knew what I had to do."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "But I still have no idea what's going on~! So just explain it for me already~! I can't take it—seriously, I'm at my limit!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "I know I said that I'm used to shit like this, but not at this level... Not even after everything you put me through last year."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (5)",
+    "text": "Can you cut that bit out already?! Read the room—you better know when it's a good time to make a joke or not, Masked Pervert!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "(What the hell. Hibiki-senpai's still pretending that he lost his memory.)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "Um, Tomoya-kun, was it? I feel a bit better now, thankfully. Is there some way I could help you out? ♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "It's fine, just go sleep. You were hurt really badly, Hibiki-senpai."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "(Hm~ What happened to him? Did he really lose his memory after getting hit in the head somewhere? Like what happens in manga? Like what happened to Mitsuru not so long ago? Ah... Maybe this is his Order?)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "(...Anyways. If anyone's acting sus during the qualifying rounds, it's because of their Order, apparently. So that could be the case with Hibiki-senpai— Or maybe he's just trying to psych us all out by pretending to have amnesia.)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "(Even if he were—if he really put his mind to it—I wouldn't be able to tell that he's faking it. Sure, all the nonsensical stuff he always does pisses me off to no end, but I know that he'd never cut corners on his acting. Never.)"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "Hm? Is there something wrong, Tomoya-kun? You've been staring at me for quite a while now..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "Oh, sorry about that... Wait, why am I apologizing? You loooove being in the spotlight."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "What do you mean, \"very interesting\"? I'm literally talking about you."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "\"What kind of person is Wataru Hibiki\"? I'm telling you, there's seriously no way I can give you a simple answer for a question like that! I don't even know you that well myself."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "Really? I apologize. Were you not close to me, Tomoya-kun? And that's why you don't...know?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "...Eh, I guess. I'm not in the same unit as you, and we don't meet up outside of work much either. I haven't really talked to you that often since you graduated. When we were still in school, you'd always suddenly appear before my eyes and annoy me to hell and back."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "Don't apologize. I've been dying to finally get some peace and quiet in my life without you around."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (6)",
+    "text": "(I thought that would make me happy. But why do I feel so empty without Hibiki-senpai messing with me...?)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Oh, so you remember how to use chopsticks? You used the knife and the microwave just fine when we were cooking together too..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "So skills related to your unconscious memory are still intact, but you don't have any—what's it called—episodic memory...?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "But you still know more than me, since I don't remember anything. I'm counting on you, Tomoya-kun~♪"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Mhm. \"Counting on me,\" huh..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Honestly, the more normal you act, the stranger it seems."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Hmm... Maybe you'll remember something if I tell you stories about ourselves. My memory's not that great either, though."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Ah, that would help a lot. You're so kind."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Anyone who has an acquaintance with amnesia would do the same, though... I should really take you to a doctor, but those monster things are still wandering around... I'm too scared to go outside."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "I have to explain that to you too, huh? If this is all an act, then please cut it out. It's getting quite troublesome."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "I... I'm not sure what to say. I truly don't remember anything. I'm sorry for the trouble I caused, Tomoya-kun."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "(Urgh... I'm losing it again. Sure, he always laughs his ass off while giving me hell... But he's strangely well-behaved right now... Did his personality change when he lost his memory?)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "(Is this really how he's like when he's not acting? The true Hibiki-senpai?)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "What now... Sorry if the food isn't to your tastes. I'm not much of a chef..."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Oh no, it's delicious. Being able to eat with someone makes me happy."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Now that you mention it, you don't usually eat around other people, huh?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Polluted Paradise (7)",
+    "text": "Huh? You can read that, Hibiki-senpai?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "Dammit! This is all the Masked Perv's fault, huh?! He's gonna pop up any second now! I am not gonna forgive you this time! It's about time you realize that using people as toys is a crime!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "(...I need to calm down! That would've been true if this was last year, but Hibiki-senpai's become a much better person now! He's too busy to pay attention to me anyways, right? So I don't think he's behind this! Probably!)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "(I went to bed like normal, but then I woke up in some shady alley! This type of cryptic situation is kinda like something Hibiki-senpai would do, though!)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "(What's that? There's something shimmering on the other side! Is it the moonlight? It's an amazingly beautiful silver color—)"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "Of course it was the Masked Pervert! I'm an idiot for thinking that your hair was some mystical object!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "Oooh, what did you do this time? Is this a prank or something?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "It's pretty much guaranteed that fine is gonna pass the qualifying rounds, so I bet you and the others have tons of free time right now. But isn't playing around with me just a waste of time—"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "Um, heeellooo? Can you at least answer back...? You better not jump back up to surprise me. I'm not dumb enough to fall for your tricks again, y'know?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "...Hey. You can really stop playing around now."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Prologue",
+    "text": "...No way. Don't tell me that you're actually...d-dead...?"
   },
   {
     "character": "Wataru Hibiki",
@@ -2017,7 +2542,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "From here on, as long as you're the Drama Club president, I'm sure there'll be plenty to worry about. But I'm glad the audience enjoyed the play. I'll keep doing my best as a member of the Drama Club. Just don't make me do a crazy show like this again, Prez, okay?"
+    "text": "From here on, as long as you're the drama club president, I'm sure there'll be plenty to worry about. But I'm glad the audience enjoyed the play. I'll keep doing my best as a member of the drama club. Just don't make me do a crazy show like this again, Prez, okay?"
   },
   {
     "character": "Mitsuru Tenma",
@@ -2087,7 +2612,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(But what exactly is acting to you? Is it just a simple trick you use to keep your \"human façade\"? Tell me that this isn't true! The whole reason why I joined the Drama Club was because I saw you on stage! I admired you!)"
+    "text": "(But what exactly is acting to you? Is it just a simple trick you use to keep your \"human façade\"? Tell me that this isn't true! The whole reason why I joined the drama club was because I saw you on stage! I admired you!)"
   },
   {
     "character": "Tomoya Mashiro",
@@ -2118,35 +2643,5 @@
     "character": "Wataru Hibiki",
     "story": "Zodiac 2: Rooster",
     "text": "That's a nice reaction. I'm happy to be able to surprise Tomoya-kun! Chickens' ancestors have always been bad at flying, but that doesn't mean they can't fly."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
-    "text": "A-Alright... I don't see the Masked Pervert around, so now's my chance. Let’s do this quietly..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
-    "text": "The Masked Pervert? T-This must be a trap! Nothing good ever comes out of him if you do what he says! I-It's terrifying...!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
-    "text": "Aah, I'm actually looking for something... I can't find it anywhere, and the only place left I can think of is the clubroom. To tell you the truth, I didn't want to come here, since didn't want to meet the Masked Pervert by chance..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
-    "text": "I am a spirit that dwells in this clubroom! What Tomoya-kun is looking for is inside one of these boxes: the Golden Box, the Silver Box, and the Normal Box. Now please, pick one!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
-    "text": "Hoho, then I shall present this Normal Box to Tomoya-kun who gave out a normal answer!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "[Yumenosaki Academy's Club Journal] Drama Club: Lost Property",
-    "text": "My, my... How could I have misread Tomoya-kun's wish? Well, in the end he betrayed my predictions, so I'll leave it at that...☆"
   }
 ]
