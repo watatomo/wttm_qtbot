@@ -43,6 +43,6 @@ Quotes are posted randomly and can be from any part of the school year, meaning 
 
 ## Attributions
 
-A list of stories that are included in the bot can be found [here](stories.md). If you wish for your translations to be removed, please DM [the bot](https://twitter.com/messages/compose?recipient_id=1281322573049954305) or [the owner](https://twitter.com/riamuyumemi).
+A list of stories that are included in the bot can be found [here](stories.md). If you wish for your translations to be removed, please DM [the bot](https://twitter.com/wttm_qtbot) or [the owner](https://twitter.com/riamuyumemi).
 
 <img style="max-width:100%;max-height:auto" src="img/shitpost.png">
