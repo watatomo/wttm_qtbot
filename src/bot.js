@@ -1,25 +1,23 @@
-const Twit = require('twit')
-const config = require('./config')
-const quotes = require('./quotes.json')
-const T = new Twit(config)
+const Twit = require('twit');
+const config = require('./config');
+const quotes = require('./quotes.json');
 
-console.log("Bot has started!")
-
-function getRandomQuote() {
-  var quote = quotes[Math.floor(Math.random()*quotes.length)]
-  var tweetableQuote = quote.text
-  postQuote(tweetableQuote)
-}
+const T = new Twit(config);
 
 function postQuote(quote) {
-  console.log("Posting quote to timeline...")
-  try {
-      T.post('statuses/update', { status: quote }, function(err, data, response) {
-        console.log(data)
-      });
-  } catch (error) {
-      console.log(error)
-  }
+    try {
+        T.post('statuses/update', { status: quote }, function getData(err, data, response) {
+            console.log(data);
+        });
+    } catch (error) {
+        console.error(error);
+    }
+}
+
+function getRandomQuote() {
+    const quote = quotes[Math.floor(Math.random() * quotes.length)];
+    const tweetableQuote = quote.text;
+    postQuote(tweetableQuote);
 }
 
 module.exports.quotes = quotes;

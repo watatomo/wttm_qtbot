@@ -35,12 +35,4 @@ POST_TO_TWITTER=true
 
 ## Updating
 
-Use `git fetch` to update. If on a server, run the bot using `pm2 start index.js` (don't forget to `cd` into the bot's directory).
-
-## Attributions
-
-Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://watatomo.github.io/wttm_qtbot/#/stories). A complete list of translators can be found [here](https://watatomo.github.io/wttm_qtbot/#/translators).
-
----
-
-Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riamuyumemi) or [open an issue](https://github.com/watatomo/wttm_qtbot/issues).
+Use `git fetch && git pull` to update. If on a server, run the bot using `pm2 start index.js` (don't forget to `cd` into the bot's directory).

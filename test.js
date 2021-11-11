@@ -1,5 +1,3 @@
-'use strict';
+const bot = require('./src/bot');
 
-var bot = require('./src/bot');
-
-bot.getRandomQuote()
+bot.getRandomQuote();
