@@ -58,7 +58,7 @@ If on a server, run the bot using `pm2 start index.js` (don't forget to `cd` int
 
 ## Updating
 
-Use `git fetch` to update.
+Use `git fetch & git pull` to update.
 
 ---
 
