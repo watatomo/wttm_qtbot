@@ -47,7 +47,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "[Idol Story] Tomoya Mashiro (1 - !!)",
-    "text": "\"Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪\""
+    "text": "<Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪>"
   },
   {
     "character": "Tomoya Mashiro",
@@ -457,7 +457,7 @@
   {
     "character": "Tomoya Mashiro",
     "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "Err, you did magic right now so... \"Thank you, Fairy Godmother. With this, I can go to the ball.\" Heheh. Ask and you shall receive!"
+    "text": "Err, you did magic right now so... <Thank you, Fairy Godmother. With this, I can go to the ball.> Heheh. Ask and you shall receive!"
   },
   {
     "character": "Wataru Hibiki",
@@ -627,12 +627,12 @@
   {
     "character": "Wataru Hibiki",
     "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
-    "text": "What is this \"theater\"? Is it when one becomes another person and captivates the audience...? I don't understand, but from the look of your face, it sounds like a lot of fun."
+    "text": "What is this \"theater\"? Is it when one becomes another person and captivates an audience...? I don't understand, but from the look of your face, it sounds like a lot of fun."
   },
   {
     "character": "Wataru Hibiki",
     "story": "[Mini Talk] Wataru Hibiki: Who Am I?",
-    "text": "\"Masks\"...? I would wear one at any chance I got last year? But wouldn't wearing a mask distort one's vision? Why did I like wearing one?"
+    "text": "\"Masks\"...? I would wear one at any chance I got last year? But wouldn't wearing a mask distort one's vision? Why did I like wearing them?"
   },
   {
     "character": "Tomoya Mashiro",
@@ -842,7 +842,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Dead End Land: Dead End Street (6)",
-    "text": "(Whispering) Tomoya-kun, Tomoya-kun."
+    "text": "*whisper* Tomoya-kun, Tomoya-kun."
   },
   {
     "character": "Tomoya Mashiro",
@@ -1152,17 +1152,17 @@
   {
     "character": "Tomoya Mashiro",
     "story": "Human Comedy: Humanity (6)",
-    "text": "\"Until we all get tired of playing together, let's link our hands and fly around in the sky!\""
+    "text": "<Until we all get tired of playing together, let's link our hands and fly around in the sky!>"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Human Comedy: Humanity (6)",
-    "text": "\"Now, hold out your hands: this is an invitation to Neverland! An island of beauty that's straight out of your wildest dreams—a mysterious land full of love and surprise!\""
+    "text": "<Now, hold out your hands: this is an invitation to Neverland! An island of beauty that's straight out of your wildest dreams—a mysterious land full of love and surprise!>"
   },
   {
     "character": "Tomoya Mashiro",
     "story": "Human Comedy: Humanity (6)",
-    "text": "\"We'll serve as your guides! Let us laugh together, hold hands, and play to our hearts' content! Welcome to this Amazing World...♪\""
+    "text": "<We'll serve as your guides! Let us laugh together, hold hands, and play to our hearts' content! Welcome to this Amazing World...♪>"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1357,7 +1357,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Milky Way: The Sunshine Following the Rain (4)",
-    "text": "\"If I am an eyesore then please try to pull me down. To put things bluntly however, I am taking photos and thus wish to keep my position up here! Look, look, I've perfectly taken it you see~? Smile, smile Tomoya-kun! Say cheese☆\""
+    "text": "<If I am an eyesore then please try to pull me down. To put things bluntly however, I am taking photos and thus wish to keep my position up here! Look, look, I've perfectly taken it you see~? Smile, smile Tomoya-kun! Say cheese☆>"
   },
   {
     "character": "Tomoya Mashiro",
@@ -1397,7 +1397,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Orihime and Hikoboshi: Epilogue (1)",
-    "text": "\"Sob, sob... So it is not only Tomoya-kun, but you too... Why are my juniors so cold to their own club president...? This must be the inversion of love! Ahh, we are all still in puberty...☆\""
+    "text": "<Sob, sob... So it is not only Tomoya-kun, but you too... Why are my juniors so cold to their own club president...? This must be the inversion of love! Ahh, we are all still in puberty...☆>"
   },
   {
     "character": "Hokuto Hidaka",
@@ -1417,7 +1417,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "\"My lips, two blushing pilgrims, shall cast their shame aside to smooth that rough touch. O'dear saint, allow me to purge my sin with this pilgrimage.\""
+    "text": "<My lips, two blushing pilgrims, shall cast their shame aside to smooth that rough touch. O'dear saint, allow me to purge my sin with this pilgrimage.>"
   },
   {
     "character": "Tomoya Mashiro",
@@ -2271,6 +2271,126 @@
   },
   {
     "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Shush... Quiet down, Tomoya-kun. The monsters might see us."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Thanks to them, I can't buy us food or call the cops! All I could do was just run away with you, holding hands!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Wait, why ARE you holding my hand?! Is it hard for you to walk?!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Was there really a need for you to shout~? Doing this prevents us from being separated, no?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Holding your hand gives me warmth, too."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Anyways, let's go look for a safe place to hide in like that apartment. We are just wandering around with no goal in mind, so the monsters might catch us eventually."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "What's that smile for?"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Ah, please don't squeeze your hand so much! It hurts!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "I kinda had a feeling that you were making fun of me right now."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "I would never! You are a fine person that thinks with his head and does what he ought to do!"
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Even so, that's much better than me, who can't think and doesn't know what to do. Up until this point, I've been of no help to you at all..."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "There's not much you can do about it since you have amnesia... Well, if you're faking all of this just so you can point and laugh at me later, then you're truly a dick."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Why are you so wary of me~? Was I really that bad? But I truly don't remember anything?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "It always feels like you were saying lies one after another. But, uuugh, I shouldn't take my anger out on someone else, even if that someone is you."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Sorry. You always seem so happy no matter what I do, so I exaggerate my reactions to try and get a more genuine response from you."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "But I am giving a reaction? I'm giving the reaction that I'm happy!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Hmm... If you always just give the same types of reactions to everything, people around you will start thinking that you're like a robot."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "It's fine. I think I understand your feelings, Tomoya-kun."
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Hmn? You lost your memories. How are you supposed to know? Even if you didn't, you're part of the Five Eccentrics and ES's Big Three, and you're always called a super genius. I'm nothing like that."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "But aren't we all humans of the same planet? And entertainers that perform in order to make others happy?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Did your memories come back? Do you remember who you are? Because you're right: you are an entertainer! In fact, you're so much of one that if that trait got taken away from you, there'd be nothing left!"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Hold up. How the hell did a five-year-old like you even exist?"
+  },
+  {
+    "character": "Tomoya Mashiro",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "How could a five-year-old have that big of a vocabulary... Surely there must be a limit for growing up too fast."
+  },
+  {
+    "character": "Wataru Hibiki",
+    "story": "Sanctuary: Circuit of Happiness (8)",
+    "text": "Hehehe. You got caught up in your sister's tears... You were always quite the sensitive one, huh?"
+  },
+  {
+    "character": "Wataru Hibiki",
     "story": "Sanctuary: Polluted Paradise (5)",
     "text": "(...I can sense someone moving, too—from a faraway place. A place that is unseen and unreachable. And from that faraway place, I hear someone calling out to me.)"
   },
@@ -2495,7 +2615,7 @@
     "text": "Hmm... Maybe you'll remember something if I tell you stories about ourselves. My memory's not that great either, though."
   },
   {
-    "character": "Tomoya Mashiro",
+    "character": "Wataru Hibiki",
     "story": "Sanctuary: Polluted Paradise (7)",
     "text": "Ah, that would help a lot. You're so kind."
   },
@@ -2510,7 +2630,7 @@
     "text": "I have to explain that to you too, huh? If this is all an act, then please cut it out. It's getting quite troublesome."
   },
   {
-    "character": "Tomoya Mashiro",
+    "character": "Wataru Hibiki",
     "story": "Sanctuary: Polluted Paradise (7)",
     "text": "I... I'm not sure what to say. I truly don't remember anything. I'm sorry for the trouble I caused, Tomoya-kun."
   },
@@ -2667,7 +2787,7 @@
   {
     "character": "Wataru Hibiki",
     "story": "The Spectacular Cinderella Show: Epilogue (2)",
-    "text": "\"I may not be your real mother, but... I love you as much as I would were we related by blood. I've been told that the way I express my love is difficult to understand, though, so I suppose you won't believe me.\""
+    "text": "<I may not be your real mother, but... I love you as much as I would were we related by blood. I've been told that the way I express my love is difficult to understand, though, so I suppose you won't believe me.>"
   },
   {
     "character": "Tomoya Mashiro",
