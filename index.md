@@ -3,9 +3,9 @@
 <img align="right" style="max-width:50%;max-height:auto" src="https://user-images.githubusercontent.com/23179278/87398281-85c97880-c56a-11ea-9510-044666dafcf2.png">
 
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
-[![Quote Count](https://img.shields.io/badge/quote%20count-562-blue.svg)](stories.md)
+[![Quote Count](https://img.shields.io/badge/quote%20count-586-blue.svg)](stories.md)
 [![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
-[![Last Update](https://img.shields.io/badge/last%20update-5%2F11%2F2022-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
+[![Last Update](https://img.shields.io/badge/last%20update-5%2F24%2F2022-blueviolet)](https://github.com/watatomo/wttm_qtbot/commits/master)
 
 [@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
 
@@ -27,13 +27,14 @@ Questions? Comments? Concerns? Contact the owner via [Twitter](https://twitter.c
 
 ## Regarding Quotes
 
-For the sake of consistency, the bot follows a style guide. More details on my standards can be found on my [translation archive](https://watatomo.github.io/tl/about/#Personal-Style-Guide).
+For the sake of consistency, the bot follows a style guide.
 
 - American English, western name order
 - Honorifics that have English equivalents are to be changed
 - Appellations, location names, and the likes are localized or changed to its English equivalent if possible
 - Official romanization is used if there is any
 - No "smart" quotes or ellipses
+- 『』quotation marks used when a character is speaking through a microphone or other medium are replaced with <> angle brackets
 
 ### Disclaimer
 
