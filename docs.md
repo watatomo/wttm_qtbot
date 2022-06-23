@@ -30,9 +30,9 @@ Quotes are stored in `quotes.json`.
 
 ```json
 {
-  "character": "Speaker",
-  "story": "Chapter",
-  "text": "Quote"
+    "character": "Speaker",
+    "story": "Chapter",
+    "text": "Quote"
 }
 ```
 
@@ -43,7 +43,7 @@ Feel free to edit it to suit your needs, but `"text"` should stay the same as th
 The time interval can be changed in `index.js`. The current default is 45 min.
 
 ```js
-setInterval(bot.postRandomQuote, 1000*60*45)
+setInterval(bot.postRandomQuote, 1000 * 60 * 45);
 ```
 
 `1000` represents one second. Multiply it by `60` and you get one minute. Edit the number at the end to any number you like (e.g., `45` for 45 min.)
@@ -61,6 +61,5 @@ If on a server, run the bot using `pm2 start index.js` (don't forget to `cd` int
 Use `git fetch & git pull` to update.
 
 ---
-
 
 [Pull requests](https://github.com/watatomo/wttm_qtbot/pulls) are welcome! Feel free to contribute any improvements you make to the bot there.

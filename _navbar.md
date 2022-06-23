@@ -1,1 +1,1 @@
-* [Twitter](https://twitter.com/wttm_qtbot)
+-   [Twitter](https://twitter.com/wttm_qtbot)
