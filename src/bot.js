@@ -1,14 +1,18 @@
-const Twit = require('twit');
-const config = require('./config');
-const quotes = require('./quotes.json');
+const Twit = require("twit");
+const config = require("./config");
+const quotes = require("./quotes.json");
 
 const T = new Twit(config);
 
 function postQuote(quote) {
     try {
-        T.post('statuses/update', { status: quote }, function getData(err, data, response) {
-            console.log(data);
-        });
+        T.post(
+            "statuses/update",
+            { status: quote },
+            function getData(err, data, response) {
+                console.log(data);
+            }
+        );
     } catch (error) {
         console.error(error);
     }
